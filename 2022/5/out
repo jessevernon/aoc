@@ -1,0 +1,5514 @@
+part 2
+
+Move 1 from 9 to 2
+1: Q F M R L W C V 
+2: D Q L C 
+3: P S R G W C N B 
+4: L C D H B Q G 
+5: V G L F Z S 
+6: D G N P 
+7: D Z P V F C W 
+8: C P D M S 
+9: Z N W T V M P 
+
+Move 4 from 6 to 1
+1: Q F M R L W C V D G N P 
+2: D Q L C 
+3: P S R G W C N B 
+4: L C D H B Q G 
+5: V G L F Z S 
+6: 
+7: D Z P V F C W 
+8: C P D M S 
+9: Z N W T V M P 
+
+Move 4 from 2 to 6
+1: Q F M R L W C V D G N P 
+2: 
+3: P S R G W C N B 
+4: L C D H B Q G 
+5: V G L F Z S 
+6: D Q L C 
+7: D Z P V F C W 
+8: C P D M S 
+9: Z N W T V M P 
+
+Move 5 from 8 to 7
+1: Q F M R L W C V D G N P 
+2: 
+3: P S R G W C N B 
+4: L C D H B Q G 
+5: V G L F Z S 
+6: D Q L C 
+7: D Z P V F C W C P D M S 
+8: 
+9: Z N W T V M P 
+
+Move 4 from 9 to 2
+1: Q F M R L W C V D G N P 
+2: T V M P 
+3: P S R G W C N B 
+4: L C D H B Q G 
+5: V G L F Z S 
+6: D Q L C 
+7: D Z P V F C W C P D M S 
+8: 
+9: Z N W 
+
+Move 1 from 5 to 8
+1: Q F M R L W C V D G N P 
+2: T V M P 
+3: P S R G W C N B 
+4: L C D H B Q G 
+5: V G L F Z 
+6: D Q L C 
+7: D Z P V F C W C P D M S 
+8: S 
+9: Z N W 
+
+Move 1 from 3 to 1
+1: Q F M R L W C V D G N P B 
+2: T V M P 
+3: P S R G W C N 
+4: L C D H B Q G 
+5: V G L F Z 
+6: D Q L C 
+7: D Z P V F C W C P D M S 
+8: S 
+9: Z N W 
+
+Move 2 from 3 to 1
+1: Q F M R L W C V D G N P B C N 
+2: T V M P 
+3: P S R G W 
+4: L C D H B Q G 
+5: V G L F Z 
+6: D Q L C 
+7: D Z P V F C W C P D M S 
+8: S 
+9: Z N W 
+
+Move 1 from 4 to 2
+1: Q F M R L W C V D G N P B C N 
+2: T V M P G 
+3: P S R G W 
+4: L C D H B Q 
+5: V G L F Z 
+6: D Q L C 
+7: D Z P V F C W C P D M S 
+8: S 
+9: Z N W 
+
+Move 11 from 7 to 2
+1: Q F M R L W C V D G N P B C N 
+2: T V M P G Z P V F C W C P D M S 
+3: P S R G W 
+4: L C D H B Q 
+5: V G L F Z 
+6: D Q L C 
+7: D 
+8: S 
+9: Z N W 
+
+Move 5 from 5 to 1
+1: Q F M R L W C V D G N P B C N V G L F Z 
+2: T V M P G Z P V F C W C P D M S 
+3: P S R G W 
+4: L C D H B Q 
+5: 
+6: D Q L C 
+7: D 
+8: S 
+9: Z N W 
+
+Move 1 from 6 to 8
+1: Q F M R L W C V D G N P B C N V G L F Z 
+2: T V M P G Z P V F C W C P D M S 
+3: P S R G W 
+4: L C D H B Q 
+5: 
+6: D Q L 
+7: D 
+8: S C 
+9: Z N W 
+
+Move 1 from 7 to 6
+1: Q F M R L W C V D G N P B C N V G L F Z 
+2: T V M P G Z P V F C W C P D M S 
+3: P S R G W 
+4: L C D H B Q 
+5: 
+6: D Q L D 
+7: 
+8: S C 
+9: Z N W 
+
+Move 3 from 6 to 7
+1: Q F M R L W C V D G N P B C N V G L F Z 
+2: T V M P G Z P V F C W C P D M S 
+3: P S R G W 
+4: L C D H B Q 
+5: 
+6: D 
+7: Q L D 
+8: S C 
+9: Z N W 
+
+Move 1 from 3 to 2
+1: Q F M R L W C V D G N P B C N V G L F Z 
+2: T V M P G Z P V F C W C P D M S W 
+3: P S R G 
+4: L C D H B Q 
+5: 
+6: D 
+7: Q L D 
+8: S C 
+9: Z N W 
+
+Move 1 from 6 to 8
+1: Q F M R L W C V D G N P B C N V G L F Z 
+2: T V M P G Z P V F C W C P D M S W 
+3: P S R G 
+4: L C D H B Q 
+5: 
+6: 
+7: Q L D 
+8: S C D 
+9: Z N W 
+
+Move 11 from 2 to 1
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z 
+3: P S R G 
+4: L C D H B Q 
+5: 
+6: 
+7: Q L D 
+8: S C D 
+9: Z N W 
+
+Move 1 from 9 to 8
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z 
+3: P S R G 
+4: L C D H B Q 
+5: 
+6: 
+7: Q L D 
+8: S C D W 
+9: Z N 
+
+Move 1 from 3 to 7
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z 
+3: P S R 
+4: L C D H B Q 
+5: 
+6: 
+7: Q L D G 
+8: S C D W 
+9: Z N 
+
+Move 4 from 7 to 9
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z 
+3: P S R 
+4: L C D H B Q 
+5: 
+6: 
+7: 
+8: S C D W 
+9: Z N Q L D G 
+
+Move 3 from 3 to 7
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z 
+3: 
+4: L C D H B Q 
+5: 
+6: 
+7: P S R 
+8: S C D W 
+9: Z N Q L D G 
+
+Move 4 from 8 to 2
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z S C D W 
+3: 
+4: L C D H B Q 
+5: 
+6: 
+7: P S R 
+8: 
+9: Z N Q L D G 
+
+Move 3 from 7 to 6
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z S C D W 
+3: 
+4: L C D H B Q 
+5: 
+6: P S R 
+7: 
+8: 
+9: Z N Q L D G 
+
+Move 2 from 6 to 3
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W 
+2: T V M P G Z S C D W 
+3: S R 
+4: L C D H B Q 
+5: 
+6: P 
+7: 
+8: 
+9: Z N Q L D G 
+
+Move 5 from 4 to 1
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W C D H B Q 
+2: T V M P G Z S C D W 
+3: S R 
+4: L 
+5: 
+6: P 
+7: 
+8: 
+9: Z N Q L D G 
+
+Move 1 from 6 to 5
+1: Q F M R L W C V D G N P B C N V G L F Z P V F C W C P D M S W C D H B Q 
+2: T V M P G Z S C D W 
+3: S R 
+4: L 
+5: P 
+6: 
+7: 
+8: 
+9: Z N Q L D G 
+
+Move 26 from 1 to 7
+1: Q F M R L W C V D G 
+2: T V M P G Z S C D W 
+3: S R 
+4: L 
+5: P 
+6: 
+7: N P B C N V G L F Z P V F C W C P D M S W C D H B Q 
+8: 
+9: Z N Q L D G 
+
+Move 1 from 4 to 6
+1: Q F M R L W C V D G 
+2: T V M P G Z S C D W 
+3: S R 
+4: 
+5: P 
+6: L 
+7: N P B C N V G L F Z P V F C W C P D M S W C D H B Q 
+8: 
+9: Z N Q L D G 
+
+Move 22 from 7 to 5
+1: Q F M R L W C V D G 
+2: T V M P G Z S C D W 
+3: S R 
+4: 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q 
+6: L 
+7: N P B C 
+8: 
+9: Z N Q L D G 
+
+Move 4 from 9 to 1
+1: Q F M R L W C V D G Q L D G 
+2: T V M P G Z S C D W 
+3: S R 
+4: 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q 
+6: L 
+7: N P B C 
+8: 
+9: Z N 
+
+Move 3 from 7 to 3
+1: Q F M R L W C V D G Q L D G 
+2: T V M P G Z S C D W 
+3: S R P B C 
+4: 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q 
+6: L 
+7: N 
+8: 
+9: Z N 
+
+Move 1 from 6 to 3
+1: Q F M R L W C V D G Q L D G 
+2: T V M P G Z S C D W 
+3: S R P B C L 
+4: 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q 
+6: 
+7: N 
+8: 
+9: Z N 
+
+Move 6 from 1 to 7
+1: Q F M R L W C V 
+2: T V M P G Z S C D W 
+3: S R P B C L 
+4: 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q 
+6: 
+7: N D G Q L D G 
+8: 
+9: Z N 
+
+Move 2 from 7 to 5
+1: Q F M R L W C V 
+2: T V M P G Z S C D W 
+3: S R P B C L 
+4: 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G 
+6: 
+7: N D G Q L 
+8: 
+9: Z N 
+
+Move 8 from 1 to 9
+1: 
+2: T V M P G Z S C D W 
+3: S R P B C L 
+4: 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G 
+6: 
+7: N D G Q L 
+8: 
+9: Z N Q F M R L W C V 
+
+Move 4 from 3 to 4
+1: 
+2: T V M P G Z S C D W 
+3: S R 
+4: P B C L 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G 
+6: 
+7: N D G Q L 
+8: 
+9: Z N Q F M R L W C V 
+
+Move 10 from 2 to 7
+1: 
+2: 
+3: S R 
+4: P B C L 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G 
+6: 
+7: N D G Q L T V M P G Z S C D W 
+8: 
+9: Z N Q F M R L W C V 
+
+Move 6 from 7 to 4
+1: 
+2: 
+3: S R 
+4: P B C L G Z S C D W 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G 
+6: 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W C V 
+
+Move 2 from 9 to 5
+1: 
+2: 
+3: S R 
+4: P B C L G Z S C D W 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G C V 
+6: 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W 
+
+Move 1 from 5 to 1
+1: V 
+2: 
+3: S R 
+4: P B C L G Z S C D W 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G C 
+6: 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W 
+
+Move 8 from 4 to 1
+1: V C L G Z S C D W 
+2: 
+3: S R 
+4: P B 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D G C 
+6: 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W 
+
+Move 2 from 5 to 9
+1: V C L G Z S C D W 
+2: 
+3: S R 
+4: P B 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D 
+6: 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G C 
+
+Move 1 from 3 to 6
+1: V C L G Z S C D W 
+2: 
+3: S 
+4: P B 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D 
+6: R 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G C 
+
+Move 1 from 9 to 1
+1: V C L G Z S C D W C 
+2: 
+3: S 
+4: P B 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D 
+6: R 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G 
+
+Move 1 from 3 to 6
+1: V C L G Z S C D W C 
+2: 
+3: 
+4: P B 
+5: P N V G L F Z P V F C W C P D M S W C D H B Q D 
+6: R S 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G 
+
+Move 2 from 5 to 2
+1: V C L G Z S C D W C 
+2: Q D 
+3: 
+4: P B 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G 
+
+Move 1 from 4 to 2
+1: V C L G Z S C D W C 
+2: Q D B 
+3: 
+4: P 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G 
+
+Move 1 from 2 to 3
+1: V C L G Z S C D W C 
+2: Q D 
+3: B 
+4: P 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G 
+
+Move 7 from 1 to 4
+1: V C L 
+2: Q D 
+3: B 
+4: P G Z S C D W C 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S 
+7: N D G Q L T V M P 
+8: 
+9: Z N Q F M R L W G 
+
+Move 9 from 7 to 4
+1: V C L 
+2: Q D 
+3: B 
+4: P G Z S C D W C N D G Q L T V M P 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S 
+7: 
+8: 
+9: Z N Q F M R L W G 
+
+Move 1 from 3 to 4
+1: V C L 
+2: Q D 
+3: 
+4: P G Z S C D W C N D G Q L T V M P B 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S 
+7: 
+8: 
+9: Z N Q F M R L W G 
+
+Move 2 from 2 to 4
+1: V C L 
+2: 
+3: 
+4: P G Z S C D W C N D G Q L T V M P B Q D 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S 
+7: 
+8: 
+9: Z N Q F M R L W G 
+
+Move 5 from 9 to 6
+1: V C L 
+2: 
+3: 
+4: P G Z S C D W C N D G Q L T V M P B Q D 
+5: P N V G L F Z P V F C W C P D M S W C D H B 
+6: R S M R L W G 
+7: 
+8: 
+9: Z N Q F 
+
+Move 1 from 4 to 5
+1: V C L 
+2: 
+3: 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D 
+6: R S M R L W G 
+7: 
+8: 
+9: Z N Q F 
+
+Move 2 from 9 to 3
+1: V C L 
+2: 
+3: Q F 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D 
+6: R S M R L W G 
+7: 
+8: 
+9: Z N 
+
+Move 1 from 1 to 6
+1: V C 
+2: 
+3: Q F 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D 
+6: R S M R L W G L 
+7: 
+8: 
+9: Z N 
+
+Move 2 from 6 to 1
+1: V C G L 
+2: 
+3: Q F 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D 
+6: R S M R L W 
+7: 
+8: 
+9: Z N 
+
+Move 2 from 6 to 5
+1: V C G L 
+2: 
+3: Q F 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W 
+6: R S M R 
+7: 
+8: 
+9: Z N 
+
+Move 2 from 9 to 7
+1: V C G L 
+2: 
+3: Q F 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W 
+6: R S M R 
+7: Z N 
+8: 
+9: 
+
+Move 1 from 3 to 9
+1: V C G L 
+2: 
+3: Q 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W 
+6: R S M R 
+7: Z N 
+8: 
+9: F 
+
+Move 1 from 9 to 5
+1: V C G L 
+2: 
+3: Q 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W F 
+6: R S M R 
+7: Z N 
+8: 
+9: 
+
+Move 2 from 7 to 3
+1: V C G L 
+2: 
+3: Q Z N 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W F 
+6: R S M R 
+7: 
+8: 
+9: 
+
+Move 1 from 1 to 7
+1: V C G 
+2: 
+3: Q Z N 
+4: P G Z S C D W C N D G Q L T V M P B Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W F 
+6: R S M R 
+7: L 
+8: 
+9: 
+
+Move 7 from 4 to 5
+1: V C G 
+2: 
+3: Q Z N 
+4: P G Z S C D W C N D G Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+6: R S M R 
+7: L 
+8: 
+9: 
+
+Move 2 from 1 to 2
+1: V 
+2: C G 
+3: Q Z N 
+4: P G Z S C D W C N D G Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+6: R S M R 
+7: L 
+8: 
+9: 
+
+Move 3 from 3 to 8
+1: V 
+2: C G 
+3: 
+4: P G Z S C D W C N D G Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+6: R S M R 
+7: L 
+8: Q Z N 
+9: 
+
+Move 3 from 8 to 9
+1: V 
+2: C G 
+3: 
+4: P G Z S C D W C N D G Q 
+5: P N V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+6: R S M R 
+7: L 
+8: 
+9: Q Z N 
+
+Move 31 from 5 to 8
+1: V 
+2: C G 
+3: 
+4: P G Z S C D W C N D G Q 
+5: P N 
+6: R S M R 
+7: L 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N 
+
+Move 1 from 7 to 1
+1: V L 
+2: C G 
+3: 
+4: P G Z S C D W C N D G Q 
+5: P N 
+6: R S M R 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N 
+
+Move 1 from 2 to 1
+1: V L G 
+2: C 
+3: 
+4: P G Z S C D W C N D G Q 
+5: P N 
+6: R S M R 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N 
+
+Move 1 from 1 to 5
+1: V L 
+2: C 
+3: 
+4: P G Z S C D W C N D G Q 
+5: P N G 
+6: R S M R 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N 
+
+Move 1 from 5 to 6
+1: V L 
+2: C 
+3: 
+4: P G Z S C D W C N D G Q 
+5: P N 
+6: R S M R G 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N 
+
+Move 2 from 5 to 7
+1: V L 
+2: C 
+3: 
+4: P G Z S C D W C N D G Q 
+5: 
+6: R S M R G 
+7: P N 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N 
+
+Move 10 from 4 to 9
+1: V L 
+2: C 
+3: 
+4: P G 
+5: 
+6: R S M R G 
+7: P N 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 5 from 6 to 2
+1: V L 
+2: C R S M R G 
+3: 
+4: P G 
+5: 
+6: 
+7: P N 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 3 from 2 to 6
+1: V L 
+2: C R S 
+3: 
+4: P G 
+5: 
+6: M R G 
+7: P N 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 2 from 7 to 8
+1: V L 
+2: C R S 
+3: 
+4: P G 
+5: 
+6: M R G 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q P N 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 1 from 6 to 3
+1: V L 
+2: C R S 
+3: G 
+4: P G 
+5: 
+6: M R 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q P N 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 1 from 4 to 1
+1: V L G 
+2: C R S 
+3: G 
+4: P 
+5: 
+6: M R 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q P N 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 1 from 3 to 6
+1: V L G 
+2: C R S 
+3: 
+4: P 
+5: 
+6: M R G 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q P N 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 1 from 4 to 2
+1: V L G 
+2: C R S P 
+3: 
+4: 
+5: 
+6: M R G 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q P N 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 2 from 1 to 2
+1: V 
+2: C R S P L G 
+3: 
+4: 
+5: 
+6: M R G 
+7: 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q P N 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 1 from 8 to 7
+1: V 
+2: C R S P L G 
+3: 
+4: 
+5: 
+6: M R G 
+7: N 
+8: V G L F Z P V F C W C P D M S W C D H B D L W F L T V M P B Q P 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 10 from 8 to 2
+1: V 
+2: C R S P L G W F L T V M P B Q P 
+3: 
+4: 
+5: 
+6: M R G 
+7: N 
+8: V G L F Z P V F C W C P D M S W C D H B D L 
+9: Q Z N Z S C D W C N D G Q 
+
+Move 13 from 2 to 9
+1: V 
+2: C R S 
+3: 
+4: 
+5: 
+6: M R G 
+7: N 
+8: V G L F Z P V F C W C P D M S W C D H B D L 
+9: Q Z N Z S C D W C N D G Q P L G W F L T V M P B Q P 
+
+Move 1 from 1 to 5
+1: 
+2: C R S 
+3: 
+4: 
+5: V 
+6: M R G 
+7: N 
+8: V G L F Z P V F C W C P D M S W C D H B D L 
+9: Q Z N Z S C D W C N D G Q P L G W F L T V M P B Q P 
+
+Move 18 from 8 to 2
+1: 
+2: C R S Z P V F C W C P D M S W C D H B D L 
+3: 
+4: 
+5: V 
+6: M R G 
+7: N 
+8: V G L F 
+9: Q Z N Z S C D W C N D G Q P L G W F L T V M P B Q P 
+
+Move 21 from 9 to 6
+1: 
+2: C R S Z P V F C W C P D M S W C D H B D L 
+3: 
+4: 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: N 
+8: V G L F 
+9: Q Z N Z S 
+
+Move 1 from 7 to 8
+1: 
+2: C R S Z P V F C W C P D M S W C D H B D L 
+3: 
+4: 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: 
+8: V G L F N 
+9: Q Z N Z S 
+
+Move 2 from 9 to 7
+1: 
+2: C R S Z P V F C W C P D M S W C D H B D L 
+3: 
+4: 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: Z S 
+8: V G L F N 
+9: Q Z N 
+
+Move 1 from 2 to 3
+1: 
+2: C R S Z P V F C W C P D M S W C D H B D 
+3: L 
+4: 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: Z S 
+8: V G L F N 
+9: Q Z N 
+
+Move 1 from 7 to 8
+1: 
+2: C R S Z P V F C W C P D M S W C D H B D 
+3: L 
+4: 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: Z 
+8: V G L F N S 
+9: Q Z N 
+
+Move 9 from 2 to 4
+1: 
+2: C R S Z P V F C W C P 
+3: L 
+4: D M S W C D H B D 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: Z 
+8: V G L F N S 
+9: Q Z N 
+
+Move 1 from 7 to 8
+1: 
+2: C R S Z P V F C W C P 
+3: L 
+4: D M S W C D H B D 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: 
+8: V G L F N S Z 
+9: Q Z N 
+
+Move 3 from 9 to 1
+1: Q Z N 
+2: C R S Z P V F C W C P 
+3: L 
+4: D M S W C D H B D 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: 
+8: V G L F N S Z 
+9: 
+
+Move 1 from 8 to 1
+1: Q Z N Z 
+2: C R S Z P V F C W C P 
+3: L 
+4: D M S W C D H B D 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: 
+8: V G L F N S 
+9: 
+
+Move 6 from 2 to 3
+1: Q Z N Z 
+2: C R S Z P 
+3: L V F C W C P 
+4: D M S W C D H B D 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: 
+8: V G L F N S 
+9: 
+
+Move 5 from 4 to 7
+1: Q Z N Z 
+2: C R S Z P 
+3: L V F C W C P 
+4: D M S W 
+5: V 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: C D H B D 
+8: V G L F N S 
+9: 
+
+Move 1 from 5 to 8
+1: Q Z N Z 
+2: C R S Z P 
+3: L V F C W C P 
+4: D M S W 
+5: 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: C D H B D 
+8: V G L F N S V 
+9: 
+
+Move 2 from 4 to 3
+1: Q Z N Z 
+2: C R S Z P 
+3: L V F C W C P S W 
+4: D M 
+5: 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: C D H B D 
+8: V G L F N S V 
+9: 
+
+Move 5 from 7 to 3
+1: Q Z N Z 
+2: C R S Z P 
+3: L V F C W C P S W C D H B D 
+4: D M 
+5: 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: 
+8: V G L F N S V 
+9: 
+
+Move 2 from 2 to 7
+1: Q Z N Z 
+2: C R S 
+3: L V F C W C P S W C D H B D 
+4: D M 
+5: 
+6: M R G C D W C N D G Q P L G W F L T V M P B Q P 
+7: Z P 
+8: V G L F N S V 
+9: 
+
+Move 15 from 6 to 1
+1: Q Z N Z G Q P L G W F L T V M P B Q P 
+2: C R S 
+3: L V F C W C P S W C D H B D 
+4: D M 
+5: 
+6: M R G C D W C N D 
+7: Z P 
+8: V G L F N S V 
+9: 
+
+Move 12 from 1 to 2
+1: Q Z N Z G Q P 
+2: C R S L G W F L T V M P B Q P 
+3: L V F C W C P S W C D H B D 
+4: D M 
+5: 
+6: M R G C D W C N D 
+7: Z P 
+8: V G L F N S V 
+9: 
+
+Move 6 from 2 to 9
+1: Q Z N Z G Q P 
+2: C R S L G W F L T 
+3: L V F C W C P S W C D H B D 
+4: D M 
+5: 
+6: M R G C D W C N D 
+7: Z P 
+8: V G L F N S V 
+9: V M P B Q P 
+
+Move 4 from 9 to 5
+1: Q Z N Z G Q P 
+2: C R S L G W F L T 
+3: L V F C W C P S W C D H B D 
+4: D M 
+5: P B Q P 
+6: M R G C D W C N D 
+7: Z P 
+8: V G L F N S V 
+9: V M 
+
+Move 4 from 5 to 6
+1: Q Z N Z G Q P 
+2: C R S L G W F L T 
+3: L V F C W C P S W C D H B D 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q P 
+7: Z P 
+8: V G L F N S V 
+9: V M 
+
+Move 14 from 3 to 9
+1: Q Z N Z G Q P 
+2: C R S L G W F L T 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q P 
+7: Z P 
+8: V G L F N S V 
+9: V M L V F C W C P S W C D H B D 
+
+Move 1 from 6 to 7
+1: Q Z N Z G Q P 
+2: C R S L G W F L T 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q 
+7: Z P P 
+8: V G L F N S V 
+9: V M L V F C W C P S W C D H B D 
+
+Move 1 from 7 to 2
+1: Q Z N Z G Q P 
+2: C R S L G W F L T P 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q 
+7: Z P 
+8: V G L F N S V 
+9: V M L V F C W C P S W C D H B D 
+
+Move 1 from 7 to 8
+1: Q Z N Z G Q P 
+2: C R S L G W F L T P 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q 
+7: Z 
+8: V G L F N S V P 
+9: V M L V F C W C P S W C D H B D 
+
+Move 9 from 2 to 6
+1: Q Z N Z G Q P 
+2: C 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q R S L G W F L T P 
+7: Z 
+8: V G L F N S V P 
+9: V M L V F C W C P S W C D H B D 
+
+Move 1 from 1 to 6
+1: Q Z N Z G Q 
+2: C 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z 
+8: V G L F N S V P 
+9: V M L V F C W C P S W C D H B D 
+
+Move 2 from 9 to 8
+1: Q Z N Z G Q 
+2: C 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z 
+8: V G L F N S V P B D 
+9: V M L V F C W C P S W C D H 
+
+Move 4 from 9 to 7
+1: Q Z N Z G Q 
+2: C 
+3: 
+4: D M 
+5: 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z W C D H 
+8: V G L F N S V P B D 
+9: V M L V F C W C P S 
+
+Move 1 from 1 to 5
+1: Q Z N Z G 
+2: C 
+3: 
+4: D M 
+5: Q 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z W C D H 
+8: V G L F N S V P B D 
+9: V M L V F C W C P S 
+
+Move 8 from 8 to 3
+1: Q Z N Z G 
+2: C 
+3: L F N S V P B D 
+4: D M 
+5: Q 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z W C D H 
+8: V G 
+9: V M L V F C W C P S 
+
+Move 1 from 5 to 4
+1: Q Z N Z G 
+2: C 
+3: L F N S V P B D 
+4: D M Q 
+5: 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z W C D H 
+8: V G 
+9: V M L V F C W C P S 
+
+Move 2 from 1 to 2
+1: Q Z N 
+2: C Z G 
+3: L F N S V P B D 
+4: D M Q 
+5: 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z W C D H 
+8: V G 
+9: V M L V F C W C P S 
+
+Move 3 from 1 to 4
+1: 
+2: C Z G 
+3: L F N S V P B D 
+4: D M Q Q Z N 
+5: 
+6: M R G C D W C N D P B Q R S L G W F L T P P 
+7: Z W C D H 
+8: V G 
+9: V M L V F C W C P S 
+
+Move 9 from 6 to 2
+1: 
+2: C Z G S L G W F L T P P 
+3: L F N S V P B D 
+4: D M Q Q Z N 
+5: 
+6: M R G C D W C N D P B Q R 
+7: Z W C D H 
+8: V G 
+9: V M L V F C W C P S 
+
+Move 1 from 7 to 4
+1: 
+2: C Z G S L G W F L T P P 
+3: L F N S V P B D 
+4: D M Q Q Z N H 
+5: 
+6: M R G C D W C N D P B Q R 
+7: Z W C D 
+8: V G 
+9: V M L V F C W C P S 
+
+Move 1 from 8 to 2
+1: 
+2: C Z G S L G W F L T P P G 
+3: L F N S V P B D 
+4: D M Q Q Z N H 
+5: 
+6: M R G C D W C N D P B Q R 
+7: Z W C D 
+8: V 
+9: V M L V F C W C P S 
+
+Move 1 from 6 to 4
+1: 
+2: C Z G S L G W F L T P P G 
+3: L F N S V P B D 
+4: D M Q Q Z N H R 
+5: 
+6: M R G C D W C N D P B Q 
+7: Z W C D 
+8: V 
+9: V M L V F C W C P S 
+
+Move 4 from 7 to 8
+1: 
+2: C Z G S L G W F L T P P G 
+3: L F N S V P B D 
+4: D M Q Q Z N H R 
+5: 
+6: M R G C D W C N D P B Q 
+7: 
+8: V Z W C D 
+9: V M L V F C W C P S 
+
+Move 12 from 6 to 8
+1: 
+2: C Z G S L G W F L T P P G 
+3: L F N S V P B D 
+4: D M Q Q Z N H R 
+5: 
+6: 
+7: 
+8: V Z W C D M R G C D W C N D P B Q 
+9: V M L V F C W C P S 
+
+Move 3 from 2 to 1
+1: P P G 
+2: C Z G S L G W F L T 
+3: L F N S V P B D 
+4: D M Q Q Z N H R 
+5: 
+6: 
+7: 
+8: V Z W C D M R G C D W C N D P B Q 
+9: V M L V F C W C P S 
+
+Move 6 from 8 to 7
+1: P P G 
+2: C Z G S L G W F L T 
+3: L F N S V P B D 
+4: D M Q Q Z N H R 
+5: 
+6: 
+7: C N D P B Q 
+8: V Z W C D M R G C D W 
+9: V M L V F C W C P S 
+
+Move 5 from 3 to 6
+1: P P G 
+2: C Z G S L G W F L T 
+3: L F N 
+4: D M Q Q Z N H R 
+5: 
+6: S V P B D 
+7: C N D P B Q 
+8: V Z W C D M R G C D W 
+9: V M L V F C W C P S 
+
+Move 3 from 3 to 6
+1: P P G 
+2: C Z G S L G W F L T 
+3: 
+4: D M Q Q Z N H R 
+5: 
+6: S V P B D L F N 
+7: C N D P B Q 
+8: V Z W C D M R G C D W 
+9: V M L V F C W C P S 
+
+Move 3 from 1 to 3
+1: 
+2: C Z G S L G W F L T 
+3: P P G 
+4: D M Q Q Z N H R 
+5: 
+6: S V P B D L F N 
+7: C N D P B Q 
+8: V Z W C D M R G C D W 
+9: V M L V F C W C P S 
+
+Move 8 from 2 to 9
+1: 
+2: C Z 
+3: P P G 
+4: D M Q Q Z N H R 
+5: 
+6: S V P B D L F N 
+7: C N D P B Q 
+8: V Z W C D M R G C D W 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 2 from 4 to 5
+1: 
+2: C Z 
+3: P P G 
+4: D M Q Q Z N 
+5: H R 
+6: S V P B D L F N 
+7: C N D P B Q 
+8: V Z W C D M R G C D W 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 2 from 7 to 2
+1: 
+2: C Z B Q 
+3: P P G 
+4: D M Q Q Z N 
+5: H R 
+6: S V P B D L F N 
+7: C N D P 
+8: V Z W C D M R G C D W 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 10 from 8 to 5
+1: 
+2: C Z B Q 
+3: P P G 
+4: D M Q Q Z N 
+5: H R Z W C D M R G C D W 
+6: S V P B D L F N 
+7: C N D P 
+8: V 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 3 from 3 to 2
+1: 
+2: C Z B Q P P G 
+3: 
+4: D M Q Q Z N 
+5: H R Z W C D M R G C D W 
+6: S V P B D L F N 
+7: C N D P 
+8: V 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 10 from 5 to 3
+1: 
+2: C Z B Q P P G 
+3: Z W C D M R G C D W 
+4: D M Q Q Z N 
+5: H R 
+6: S V P B D L F N 
+7: C N D P 
+8: V 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 1 from 4 to 3
+1: 
+2: C Z B Q P P G 
+3: Z W C D M R G C D W N 
+4: D M Q Q Z 
+5: H R 
+6: S V P B D L F N 
+7: C N D P 
+8: V 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 1 from 2 to 1
+1: G 
+2: C Z B Q P P 
+3: Z W C D M R G C D W N 
+4: D M Q Q Z 
+5: H R 
+6: S V P B D L F N 
+7: C N D P 
+8: V 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 1 from 1 to 7
+1: 
+2: C Z B Q P P 
+3: Z W C D M R G C D W N 
+4: D M Q Q Z 
+5: H R 
+6: S V P B D L F N 
+7: C N D P G 
+8: V 
+9: V M L V F C W C P S G S L G W F L T 
+
+Move 14 from 9 to 6
+1: 
+2: C Z B Q P P 
+3: Z W C D M R G C D W N 
+4: D M Q Q Z 
+5: H R 
+6: S V P B D L F N F C W C P S G S L G W F L T 
+7: C N D P G 
+8: V 
+9: V M L V 
+
+Move 5 from 2 to 4
+1: 
+2: C 
+3: Z W C D M R G C D W N 
+4: D M Q Q Z Z B Q P P 
+5: H R 
+6: S V P B D L F N F C W C P S G S L G W F L T 
+7: C N D P G 
+8: V 
+9: V M L V 
+
+Move 15 from 6 to 5
+1: 
+2: C 
+3: Z W C D M R G C D W N 
+4: D M Q Q Z Z B Q P P 
+5: H R N F C W C P S G S L G W F L T 
+6: S V P B D L F 
+7: C N D P G 
+8: V 
+9: V M L V 
+
+Move 3 from 9 to 3
+1: 
+2: C 
+3: Z W C D M R G C D W N M L V 
+4: D M Q Q Z Z B Q P P 
+5: H R N F C W C P S G S L G W F L T 
+6: S V P B D L F 
+7: C N D P G 
+8: V 
+9: V 
+
+Move 1 from 8 to 6
+1: 
+2: C 
+3: Z W C D M R G C D W N M L V 
+4: D M Q Q Z Z B Q P P 
+5: H R N F C W C P S G S L G W F L T 
+6: S V P B D L F V 
+7: C N D P G 
+8: 
+9: V 
+
+Move 1 from 3 to 8
+1: 
+2: C 
+3: Z W C D M R G C D W N M L 
+4: D M Q Q Z Z B Q P P 
+5: H R N F C W C P S G S L G W F L T 
+6: S V P B D L F V 
+7: C N D P G 
+8: V 
+9: V 
+
+Move 7 from 3 to 8
+1: 
+2: C 
+3: Z W C D M R 
+4: D M Q Q Z Z B Q P P 
+5: H R N F C W C P S G S L G W F L T 
+6: S V P B D L F V 
+7: C N D P G 
+8: V G C D W N M L 
+9: V 
+
+Move 16 from 5 to 1
+1: R N F C W C P S G S L G W F L T 
+2: C 
+3: Z W C D M R 
+4: D M Q Q Z Z B Q P P 
+5: H 
+6: S V P B D L F V 
+7: C N D P G 
+8: V G C D W N M L 
+9: V 
+
+Move 2 from 7 to 1
+1: R N F C W C P S G S L G W F L T P G 
+2: C 
+3: Z W C D M R 
+4: D M Q Q Z Z B Q P P 
+5: H 
+6: S V P B D L F V 
+7: C N D 
+8: V G C D W N M L 
+9: V 
+
+Move 1 from 5 to 9
+1: R N F C W C P S G S L G W F L T P G 
+2: C 
+3: Z W C D M R 
+4: D M Q Q Z Z B Q P P 
+5: 
+6: S V P B D L F V 
+7: C N D 
+8: V G C D W N M L 
+9: V H 
+
+Move 2 from 9 to 3
+1: R N F C W C P S G S L G W F L T P G 
+2: C 
+3: Z W C D M R V H 
+4: D M Q Q Z Z B Q P P 
+5: 
+6: S V P B D L F V 
+7: C N D 
+8: V G C D W N M L 
+9: 
+
+Move 15 from 1 to 5
+1: R N F 
+2: C 
+3: Z W C D M R V H 
+4: D M Q Q Z Z B Q P P 
+5: C W C P S G S L G W F L T P G 
+6: S V P B D L F V 
+7: C N D 
+8: V G C D W N M L 
+9: 
+
+Move 3 from 8 to 2
+1: R N F 
+2: C N M L 
+3: Z W C D M R V H 
+4: D M Q Q Z Z B Q P P 
+5: C W C P S G S L G W F L T P G 
+6: S V P B D L F V 
+7: C N D 
+8: V G C D W 
+9: 
+
+Move 3 from 3 to 1
+1: R N F R V H 
+2: C N M L 
+3: Z W C D M 
+4: D M Q Q Z Z B Q P P 
+5: C W C P S G S L G W F L T P G 
+6: S V P B D L F V 
+7: C N D 
+8: V G C D W 
+9: 
+
+Move 3 from 7 to 3
+1: R N F R V H 
+2: C N M L 
+3: Z W C D M C N D 
+4: D M Q Q Z Z B Q P P 
+5: C W C P S G S L G W F L T P G 
+6: S V P B D L F V 
+7: 
+8: V G C D W 
+9: 
+
+Move 8 from 4 to 6
+1: R N F R V H 
+2: C N M L 
+3: Z W C D M C N D 
+4: D M 
+5: C W C P S G S L G W F L T P G 
+6: S V P B D L F V Q Q Z Z B Q P P 
+7: 
+8: V G C D W 
+9: 
+
+Move 5 from 1 to 6
+1: R 
+2: C N M L 
+3: Z W C D M C N D 
+4: D M 
+5: C W C P S G S L G W F L T P G 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: 
+8: V G C D W 
+9: 
+
+Move 9 from 5 to 7
+1: R 
+2: C N M L 
+3: Z W C D M C N D 
+4: D M 
+5: C W C P S G 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: S L G W F L T P G 
+8: V G C D W 
+9: 
+
+Move 2 from 8 to 3
+1: R 
+2: C N M L 
+3: Z W C D M C N D D W 
+4: D M 
+5: C W C P S G 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: S L G W F L T P G 
+8: V G C 
+9: 
+
+Move 2 from 2 to 7
+1: R 
+2: C N 
+3: Z W C D M C N D D W 
+4: D M 
+5: C W C P S G 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: S L G W F L T P G M L 
+8: V G C 
+9: 
+
+Move 1 from 1 to 4
+1: 
+2: C N 
+3: Z W C D M C N D D W 
+4: D M R 
+5: C W C P S G 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: S L G W F L T P G M L 
+8: V G C 
+9: 
+
+Move 2 from 5 to 8
+1: 
+2: C N 
+3: Z W C D M C N D D W 
+4: D M R 
+5: C W C P 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: S L G W F L T P G M L 
+8: V G C S G 
+9: 
+
+Move 4 from 3 to 1
+1: N D D W 
+2: C N 
+3: Z W C D M C 
+4: D M R 
+5: C W C P 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: S L G W F L T P G M L 
+8: V G C S G 
+9: 
+
+Move 4 from 8 to 1
+1: N D D W G C S G 
+2: C N 
+3: Z W C D M C 
+4: D M R 
+5: C W C P 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H 
+7: S L G W F L T P G M L 
+8: V 
+9: 
+
+Move 1 from 8 to 6
+1: N D D W G C S G 
+2: C N 
+3: Z W C D M C 
+4: D M R 
+5: C W C P 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H V 
+7: S L G W F L T P G M L 
+8: 
+9: 
+
+Move 9 from 7 to 6
+1: N D D W G C S G 
+2: C N 
+3: Z W C D M C 
+4: D M R 
+5: C W C P 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H V G W F L T P G M L 
+7: S L 
+8: 
+9: 
+
+Move 2 from 7 to 5
+1: N D D W G C S G 
+2: C N 
+3: Z W C D M C 
+4: D M R 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H V G W F L T P G M L 
+7: 
+8: 
+9: 
+
+Move 3 from 1 to 8
+1: N D D W G 
+2: C N 
+3: Z W C D M C 
+4: D M R 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H V G W F L T P G M L 
+7: 
+8: C S G 
+9: 
+
+Move 1 from 4 to 8
+1: N D D W G 
+2: C N 
+3: Z W C D M C 
+4: D M 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H V G W F L T P G M L 
+7: 
+8: C S G R 
+9: 
+
+Move 1 from 2 to 4
+1: N D D W G 
+2: C 
+3: Z W C D M C 
+4: D M N 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R V H V G W F L T P G M L 
+7: 
+8: C S G R 
+9: 
+
+Move 12 from 6 to 2
+1: N D D W G 
+2: C V H V G W F L T P G M L 
+3: Z W C D M C 
+4: D M N 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R 
+7: 
+8: C S G R 
+9: 
+
+Move 3 from 8 to 6
+1: N D D W G 
+2: C V H V G W F L T P G M L 
+3: Z W C D M C 
+4: D M N 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R S G R 
+7: 
+8: C 
+9: 
+
+Move 1 from 4 to 7
+1: N D D W G 
+2: C V H V G W F L T P G M L 
+3: Z W C D M C 
+4: D M 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R S G R 
+7: N 
+8: C 
+9: 
+
+Move 2 from 6 to 8
+1: N D D W G 
+2: C V H V G W F L T P G M L 
+3: Z W C D M C 
+4: D M 
+5: C W C P S L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R S 
+7: N 
+8: C G R 
+9: 
+
+Move 5 from 5 to 9
+1: N D D W G 
+2: C V H V G W F L T P G M L 
+3: Z W C D M C 
+4: D M 
+5: C 
+6: S V P B D L F V Q Q Z Z B Q P P N F R S 
+7: N 
+8: C G R 
+9: W C P S L 
+
+Move 13 from 2 to 9
+1: N D D W G 
+2: 
+3: Z W C D M C 
+4: D M 
+5: C 
+6: S V P B D L F V Q Q Z Z B Q P P N F R S 
+7: N 
+8: C G R 
+9: W C P S L C V H V G W F L T P G M L 
+
+Move 2 from 4 to 7
+1: N D D W G 
+2: 
+3: Z W C D M C 
+4: 
+5: C 
+6: S V P B D L F V Q Q Z Z B Q P P N F R S 
+7: N D M 
+8: C G R 
+9: W C P S L C V H V G W F L T P G M L 
+
+Move 13 from 9 to 5
+1: N D D W G 
+2: 
+3: Z W C D M C 
+4: 
+5: C C V H V G W F L T P G M L 
+6: S V P B D L F V Q Q Z Z B Q P P N F R S 
+7: N D M 
+8: C G R 
+9: W C P S L 
+
+Move 2 from 6 to 5
+1: N D D W G 
+2: 
+3: Z W C D M C 
+4: 
+5: C C V H V G W F L T P G M L R S 
+6: S V P B D L F V Q Q Z Z B Q P P N F 
+7: N D M 
+8: C G R 
+9: W C P S L 
+
+Move 1 from 3 to 9
+1: N D D W G 
+2: 
+3: Z W C D M 
+4: 
+5: C C V H V G W F L T P G M L R S 
+6: S V P B D L F V Q Q Z Z B Q P P N F 
+7: N D M 
+8: C G R 
+9: W C P S L C 
+
+Move 6 from 9 to 4
+1: N D D W G 
+2: 
+3: Z W C D M 
+4: W C P S L C 
+5: C C V H V G W F L T P G M L R S 
+6: S V P B D L F V Q Q Z Z B Q P P N F 
+7: N D M 
+8: C G R 
+9: 
+
+Move 5 from 1 to 3
+1: 
+2: 
+3: Z W C D M N D D W G 
+4: W C P S L C 
+5: C C V H V G W F L T P G M L R S 
+6: S V P B D L F V Q Q Z Z B Q P P N F 
+7: N D M 
+8: C G R 
+9: 
+
+Move 1 from 7 to 9
+1: 
+2: 
+3: Z W C D M N D D W G 
+4: W C P S L C 
+5: C C V H V G W F L T P G M L R S 
+6: S V P B D L F V Q Q Z Z B Q P P N F 
+7: N D 
+8: C G R 
+9: M 
+
+Move 15 from 5 to 8
+1: 
+2: 
+3: Z W C D M N D D W G 
+4: W C P S L C 
+5: C 
+6: S V P B D L F V Q Q Z Z B Q P P N F 
+7: N D 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 2 from 4 to 7
+1: 
+2: 
+3: Z W C D M N D D W G 
+4: W C P S 
+5: C 
+6: S V P B D L F V Q Q Z Z B Q P P N F 
+7: N D L C 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 2 from 4 to 6
+1: 
+2: 
+3: Z W C D M N D D W G 
+4: W C 
+5: C 
+6: S V P B D L F V Q Q Z Z B Q P P N F P S 
+7: N D L C 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 1 from 4 to 6
+1: 
+2: 
+3: Z W C D M N D D W G 
+4: W 
+5: C 
+6: S V P B D L F V Q Q Z Z B Q P P N F P S C 
+7: N D L C 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 1 from 5 to 7
+1: 
+2: 
+3: Z W C D M N D D W G 
+4: W 
+5: 
+6: S V P B D L F V Q Q Z Z B Q P P N F P S C 
+7: N D L C C 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 18 from 6 to 2
+1: 
+2: B D L F V Q Q Z Z B Q P P N F P S C 
+3: Z W C D M N D D W G 
+4: W 
+5: 
+6: S V P 
+7: N D L C C 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 2 from 7 to 3
+1: 
+2: B D L F V Q Q Z Z B Q P P N F P S C 
+3: Z W C D M N D D W G C C 
+4: W 
+5: 
+6: S V P 
+7: N D L 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 3 from 6 to 7
+1: 
+2: B D L F V Q Q Z Z B Q P P N F P S C 
+3: Z W C D M N D D W G C C 
+4: W 
+5: 
+6: 
+7: N D L S V P 
+8: C G R C V H V G W F L T P G M L R S 
+9: M 
+
+Move 3 from 2 to 8
+1: 
+2: B D L F V Q Q Z Z B Q P P N F 
+3: Z W C D M N D D W G C C 
+4: W 
+5: 
+6: 
+7: N D L S V P 
+8: C G R C V H V G W F L T P G M L R S P S C 
+9: M 
+
+Move 5 from 7 to 3
+1: 
+2: B D L F V Q Q Z Z B Q P P N F 
+3: Z W C D M N D D W G C C D L S V P 
+4: W 
+5: 
+6: 
+7: N 
+8: C G R C V H V G W F L T P G M L R S P S C 
+9: M 
+
+Move 1 from 9 to 6
+1: 
+2: B D L F V Q Q Z Z B Q P P N F 
+3: Z W C D M N D D W G C C D L S V P 
+4: W 
+5: 
+6: M 
+7: N 
+8: C G R C V H V G W F L T P G M L R S P S C 
+9: 
+
+Move 2 from 3 to 8
+1: 
+2: B D L F V Q Q Z Z B Q P P N F 
+3: Z W C D M N D D W G C C D L S 
+4: W 
+5: 
+6: M 
+7: N 
+8: C G R C V H V G W F L T P G M L R S P S C V P 
+9: 
+
+Move 11 from 3 to 2
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D L S 
+3: Z W C D 
+4: W 
+5: 
+6: M 
+7: N 
+8: C G R C V H V G W F L T P G M L R S P S C V P 
+9: 
+
+Move 2 from 2 to 9
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D 
+3: Z W C D 
+4: W 
+5: 
+6: M 
+7: N 
+8: C G R C V H V G W F L T P G M L R S P S C V P 
+9: L S 
+
+Move 1 from 6 to 2
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W C D 
+4: W 
+5: 
+6: 
+7: N 
+8: C G R C V H V G W F L T P G M L R S P S C V P 
+9: L S 
+
+Move 1 from 7 to 5
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W C D 
+4: W 
+5: N 
+6: 
+7: 
+8: C G R C V H V G W F L T P G M L R S P S C V P 
+9: L S 
+
+Move 1 from 5 to 9
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W C D 
+4: W 
+5: 
+6: 
+7: 
+8: C G R C V H V G W F L T P G M L R S P S C V P 
+9: L S N 
+
+Move 9 from 8 to 4
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W C D 
+4: W M L R S P S C V P 
+5: 
+6: 
+7: 
+8: C G R C V H V G W F L T P G 
+9: L S N 
+
+Move 1 from 4 to 6
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W C D 
+4: W M L R S P S C V 
+5: 
+6: P 
+7: 
+8: C G R C V H V G W F L T P G 
+9: L S N 
+
+Move 2 from 3 to 1
+1: C D 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W 
+4: W M L R S P S C V 
+5: 
+6: P 
+7: 
+8: C G R C V H V G W F L T P G 
+9: L S N 
+
+Move 2 from 1 to 5
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W 
+4: W M L R S P S C V 
+5: C D 
+6: P 
+7: 
+8: C G R C V H V G W F L T P G 
+9: L S N 
+
+Move 12 from 8 to 3
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M 
+3: Z W R C V H V G W F L T P G 
+4: W M L R S P S C V 
+5: C D 
+6: P 
+7: 
+8: C G 
+9: L S N 
+
+Move 1 from 8 to 2
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M G 
+3: Z W R C V H V G W F L T P G 
+4: W M L R S P S C V 
+5: C D 
+6: P 
+7: 
+8: C 
+9: L S N 
+
+Move 14 from 3 to 4
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M G 
+3: 
+4: W M L R S P S C V Z W R C V H V G W F L T P G 
+5: C D 
+6: P 
+7: 
+8: C 
+9: L S N 
+
+Move 1 from 6 to 4
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M G 
+3: 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P 
+5: C D 
+6: 
+7: 
+8: C 
+9: L S N 
+
+Move 1 from 5 to 4
+1: 
+2: B D L F V Q Q Z Z B Q P P N F M N D D W G C C D M G 
+3: 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P D 
+5: C 
+6: 
+7: 
+8: C 
+9: L S N 
+
+Move 20 from 2 to 7
+1: 
+2: B D L F V Q 
+3: 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P D 
+5: C 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G 
+8: C 
+9: L S N 
+
+Move 2 from 9 to 5
+1: 
+2: B D L F V Q 
+3: 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P D 
+5: C S N 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G 
+8: C 
+9: L 
+
+Move 1 from 5 to 3
+1: 
+2: B D L F V Q 
+3: N 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P D 
+5: C S 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G 
+8: C 
+9: L 
+
+Move 1 from 9 to 2
+1: 
+2: B D L F V Q L 
+3: N 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P D 
+5: C S 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G 
+8: C 
+9: 
+
+Move 1 from 2 to 8
+1: 
+2: B D L F V Q 
+3: N 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P D 
+5: C S 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G 
+8: C L 
+9: 
+
+Move 2 from 2 to 3
+1: 
+2: B D L F 
+3: N V Q 
+4: W M L R S P S C V Z W R C V H V G W F L T P G P D 
+5: C S 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G 
+8: C L 
+9: 
+
+Move 5 from 4 to 5
+1: 
+2: B D L F 
+3: N V Q 
+4: W M L R S P S C V Z W R C V H V G W F L 
+5: C S T P G P D 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G 
+8: C L 
+9: 
+
+Move 6 from 5 to 7
+1: 
+2: B D L F 
+3: N V Q 
+4: W M L R S P S C V Z W R C V H V G W F L 
+5: C 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G S T P G P D 
+8: C L 
+9: 
+
+Move 2 from 8 to 2
+1: 
+2: B D L F C L 
+3: N V Q 
+4: W M L R S P S C V Z W R C V H V G W F L 
+5: C 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G S T P G P D 
+8: 
+9: 
+
+Move 3 from 3 to 9
+1: 
+2: B D L F C L 
+3: 
+4: W M L R S P S C V Z W R C V H V G W F L 
+5: C 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G S T P G P D 
+8: 
+9: N V Q 
+
+Move 5 from 4 to 5
+1: 
+2: B D L F C L 
+3: 
+4: W M L R S P S C V Z W R C V H 
+5: C V G W F L 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G S T P G P D 
+8: 
+9: N V Q 
+
+Move 2 from 9 to 7
+1: 
+2: B D L F C L 
+3: 
+4: W M L R S P S C V Z W R C V H 
+5: C V G W F L 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G S T P G P D V Q 
+8: 
+9: N 
+
+Move 2 from 2 to 3
+1: 
+2: B D L F 
+3: C L 
+4: W M L R S P S C V Z W R C V H 
+5: C V G W F L 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G S T P G P D V Q 
+8: 
+9: N 
+
+Move 1 from 9 to 3
+1: 
+2: B D L F 
+3: C L N 
+4: W M L R S P S C V Z W R C V H 
+5: C V G W F L 
+6: 
+7: Q Z Z B Q P P N F M N D D W G C C D M G S T P G P D V Q 
+8: 
+9: 
+
+Move 22 from 7 to 3
+1: 
+2: B D L F 
+3: C L N P N F M N D D W G C C D M G S T P G P D V Q 
+4: W M L R S P S C V Z W R C V H 
+5: C V G W F L 
+6: 
+7: Q Z Z B Q P 
+8: 
+9: 
+
+Move 4 from 7 to 4
+1: 
+2: B D L F 
+3: C L N P N F M N D D W G C C D M G S T P G P D V Q 
+4: W M L R S P S C V Z W R C V H Z B Q P 
+5: C V G W F L 
+6: 
+7: Q Z 
+8: 
+9: 
+
+Move 24 from 3 to 6
+1: 
+2: B D L F 
+3: C 
+4: W M L R S P S C V Z W R C V H Z B Q P 
+5: C V G W F L 
+6: L N P N F M N D D W G C C D M G S T P G P D V Q 
+7: Q Z 
+8: 
+9: 
+
+Move 4 from 2 to 6
+1: 
+2: 
+3: C 
+4: W M L R S P S C V Z W R C V H Z B Q P 
+5: C V G W F L 
+6: L N P N F M N D D W G C C D M G S T P G P D V Q B D L F 
+7: Q Z 
+8: 
+9: 
+
+Move 18 from 6 to 9
+1: 
+2: 
+3: C 
+4: W M L R S P S C V Z W R C V H Z B Q P 
+5: C V G W F L 
+6: L N P N F M N D D W 
+7: Q Z 
+8: 
+9: G C C D M G S T P G P D V Q B D L F 
+
+Move 15 from 4 to 6
+1: 
+2: 
+3: C 
+4: W M L R 
+5: C V G W F L 
+6: L N P N F M N D D W S P S C V Z W R C V H Z B Q P 
+7: Q Z 
+8: 
+9: G C C D M G S T P G P D V Q B D L F 
+
+Move 8 from 6 to 3
+1: 
+2: 
+3: C R C V H Z B Q P 
+4: W M L R 
+5: C V G W F L 
+6: L N P N F M N D D W S P S C V Z W 
+7: Q Z 
+8: 
+9: G C C D M G S T P G P D V Q B D L F 
+
+Move 6 from 6 to 1
+1: P S C V Z W 
+2: 
+3: C R C V H Z B Q P 
+4: W M L R 
+5: C V G W F L 
+6: L N P N F M N D D W S 
+7: Q Z 
+8: 
+9: G C C D M G S T P G P D V Q B D L F 
+
+Move 7 from 9 to 6
+1: P S C V Z W 
+2: 
+3: C R C V H Z B Q P 
+4: W M L R 
+5: C V G W F L 
+6: L N P N F M N D D W S D V Q B D L F 
+7: Q Z 
+8: 
+9: G C C D M G S T P G P 
+
+Move 2 from 7 to 4
+1: P S C V Z W 
+2: 
+3: C R C V H Z B Q P 
+4: W M L R Q Z 
+5: C V G W F L 
+6: L N P N F M N D D W S D V Q B D L F 
+7: 
+8: 
+9: G C C D M G S T P G P 
+
+Move 8 from 3 to 9
+1: P S C V Z W 
+2: 
+3: C 
+4: W M L R Q Z 
+5: C V G W F L 
+6: L N P N F M N D D W S D V Q B D L F 
+7: 
+8: 
+9: G C C D M G S T P G P R C V H Z B Q P 
+
+Move 14 from 6 to 3
+1: P S C V Z W 
+2: 
+3: C F M N D D W S D V Q B D L F 
+4: W M L R Q Z 
+5: C V G W F L 
+6: L N P N 
+7: 
+8: 
+9: G C C D M G S T P G P R C V H Z B Q P 
+
+Move 2 from 3 to 9
+1: P S C V Z W 
+2: 
+3: C F M N D D W S D V Q B D 
+4: W M L R Q Z 
+5: C V G W F L 
+6: L N P N 
+7: 
+8: 
+9: G C C D M G S T P G P R C V H Z B Q P L F 
+
+Move 1 from 9 to 6
+1: P S C V Z W 
+2: 
+3: C F M N D D W S D V Q B D 
+4: W M L R Q Z 
+5: C V G W F L 
+6: L N P N F 
+7: 
+8: 
+9: G C C D M G S T P G P R C V H Z B Q P L 
+
+Move 13 from 9 to 1
+1: P S C V Z W T P G P R C V H Z B Q P L 
+2: 
+3: C F M N D D W S D V Q B D 
+4: W M L R Q Z 
+5: C V G W F L 
+6: L N P N F 
+7: 
+8: 
+9: G C C D M G S 
+
+Move 3 from 4 to 5
+1: P S C V Z W T P G P R C V H Z B Q P L 
+2: 
+3: C F M N D D W S D V Q B D 
+4: W M L 
+5: C V G W F L R Q Z 
+6: L N P N F 
+7: 
+8: 
+9: G C C D M G S 
+
+Move 1 from 9 to 6
+1: P S C V Z W T P G P R C V H Z B Q P L 
+2: 
+3: C F M N D D W S D V Q B D 
+4: W M L 
+5: C V G W F L R Q Z 
+6: L N P N F S 
+7: 
+8: 
+9: G C C D M G 
+
+Move 5 from 1 to 8
+1: P S C V Z W T P G P R C V H 
+2: 
+3: C F M N D D W S D V Q B D 
+4: W M L 
+5: C V G W F L R Q Z 
+6: L N P N F S 
+7: 
+8: Z B Q P L 
+9: G C C D M G 
+
+Move 3 from 3 to 9
+1: P S C V Z W T P G P R C V H 
+2: 
+3: C F M N D D W S D V 
+4: W M L 
+5: C V G W F L R Q Z 
+6: L N P N F S 
+7: 
+8: Z B Q P L 
+9: G C C D M G Q B D 
+
+Move 2 from 1 to 5
+1: P S C V Z W T P G P R C 
+2: 
+3: C F M N D D W S D V 
+4: W M L 
+5: C V G W F L R Q Z V H 
+6: L N P N F S 
+7: 
+8: Z B Q P L 
+9: G C C D M G Q B D 
+
+Move 8 from 5 to 8
+1: P S C V Z W T P G P R C 
+2: 
+3: C F M N D D W S D V 
+4: W M L 
+5: C V G 
+6: L N P N F S 
+7: 
+8: Z B Q P L W F L R Q Z V H 
+9: G C C D M G Q B D 
+
+Move 10 from 3 to 5
+1: P S C V Z W T P G P R C 
+2: 
+3: 
+4: W M L 
+5: C V G C F M N D D W S D V 
+6: L N P N F S 
+7: 
+8: Z B Q P L W F L R Q Z V H 
+9: G C C D M G Q B D 
+
+Move 3 from 4 to 6
+1: P S C V Z W T P G P R C 
+2: 
+3: 
+4: 
+5: C V G C F M N D D W S D V 
+6: L N P N F S W M L 
+7: 
+8: Z B Q P L W F L R Q Z V H 
+9: G C C D M G Q B D 
+
+Move 6 from 1 to 9
+1: P S C V Z W 
+2: 
+3: 
+4: 
+5: C V G C F M N D D W S D V 
+6: L N P N F S W M L 
+7: 
+8: Z B Q P L W F L R Q Z V H 
+9: G C C D M G Q B D T P G P R C 
+
+Move 4 from 5 to 3
+1: P S C V Z W 
+2: 
+3: W S D V 
+4: 
+5: C V G C F M N D D 
+6: L N P N F S W M L 
+7: 
+8: Z B Q P L W F L R Q Z V H 
+9: G C C D M G Q B D T P G P R C 
+
+Move 5 from 8 to 2
+1: P S C V Z W 
+2: R Q Z V H 
+3: W S D V 
+4: 
+5: C V G C F M N D D 
+6: L N P N F S W M L 
+7: 
+8: Z B Q P L W F L 
+9: G C C D M G Q B D T P G P R C 
+
+Move 6 from 6 to 3
+1: P S C V Z W 
+2: R Q Z V H 
+3: W S D V N F S W M L 
+4: 
+5: C V G C F M N D D 
+6: L N P 
+7: 
+8: Z B Q P L W F L 
+9: G C C D M G Q B D T P G P R C 
+
+Move 7 from 3 to 6
+1: P S C V Z W 
+2: R Q Z V H 
+3: W S D 
+4: 
+5: C V G C F M N D D 
+6: L N P V N F S W M L 
+7: 
+8: Z B Q P L W F L 
+9: G C C D M G Q B D T P G P R C 
+
+Move 1 from 3 to 4
+1: P S C V Z W 
+2: R Q Z V H 
+3: W S 
+4: D 
+5: C V G C F M N D D 
+6: L N P V N F S W M L 
+7: 
+8: Z B Q P L W F L 
+9: G C C D M G Q B D T P G P R C 
+
+Move 5 from 8 to 7
+1: P S C V Z W 
+2: R Q Z V H 
+3: W S 
+4: D 
+5: C V G C F M N D D 
+6: L N P V N F S W M L 
+7: P L W F L 
+8: Z B Q 
+9: G C C D M G Q B D T P G P R C 
+
+Move 5 from 2 to 6
+1: P S C V Z W 
+2: 
+3: W S 
+4: D 
+5: C V G C F M N D D 
+6: L N P V N F S W M L R Q Z V H 
+7: P L W F L 
+8: Z B Q 
+9: G C C D M G Q B D T P G P R C 
+
+Move 2 from 7 to 3
+1: P S C V Z W 
+2: 
+3: W S F L 
+4: D 
+5: C V G C F M N D D 
+6: L N P V N F S W M L R Q Z V H 
+7: P L W 
+8: Z B Q 
+9: G C C D M G Q B D T P G P R C 
+
+Move 3 from 7 to 3
+1: P S C V Z W 
+2: 
+3: W S F L P L W 
+4: D 
+5: C V G C F M N D D 
+6: L N P V N F S W M L R Q Z V H 
+7: 
+8: Z B Q 
+9: G C C D M G Q B D T P G P R C 
+
+Move 1 from 4 to 9
+1: P S C V Z W 
+2: 
+3: W S F L P L W 
+4: 
+5: C V G C F M N D D 
+6: L N P V N F S W M L R Q Z V H 
+7: 
+8: Z B Q 
+9: G C C D M G Q B D T P G P R C D 
+
+Move 9 from 6 to 9
+1: P S C V Z W 
+2: 
+3: W S F L P L W 
+4: 
+5: C V G C F M N D D 
+6: L N P V N F 
+7: 
+8: Z B Q 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 2 from 6 to 2
+1: P S C V Z W 
+2: N F 
+3: W S F L P L W 
+4: 
+5: C V G C F M N D D 
+6: L N P V 
+7: 
+8: Z B Q 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 1 from 8 to 2
+1: P S C V Z W 
+2: N F Q 
+3: W S F L P L W 
+4: 
+5: C V G C F M N D D 
+6: L N P V 
+7: 
+8: Z B 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 2 from 8 to 7
+1: P S C V Z W 
+2: N F Q 
+3: W S F L P L W 
+4: 
+5: C V G C F M N D D 
+6: L N P V 
+7: Z B 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 5 from 1 to 5
+1: P 
+2: N F Q 
+3: W S F L P L W 
+4: 
+5: C V G C F M N D D S C V Z W 
+6: L N P V 
+7: Z B 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 1 from 1 to 4
+1: 
+2: N F Q 
+3: W S F L P L W 
+4: P 
+5: C V G C F M N D D S C V Z W 
+6: L N P V 
+7: Z B 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 13 from 5 to 7
+1: 
+2: N F Q 
+3: W S F L P L W 
+4: P 
+5: C 
+6: L N P V 
+7: Z B V G C F M N D D S C V Z W 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 5 from 3 to 7
+1: 
+2: N F Q 
+3: W S 
+4: P 
+5: C 
+6: L N P V 
+7: Z B V G C F M N D D S C V Z W F L P L W 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 1 from 5 to 6
+1: 
+2: N F Q 
+3: W S 
+4: P 
+5: 
+6: L N P V C 
+7: Z B V G C F M N D D S C V Z W F L P L W 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 1 from 4 to 6
+1: 
+2: N F Q 
+3: W S 
+4: 
+5: 
+6: L N P V C P 
+7: Z B V G C F M N D D S C V Z W F L P L W 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 3 from 2 to 8
+1: 
+2: 
+3: W S 
+4: 
+5: 
+6: L N P V C P 
+7: Z B V G C F M N D D S C V Z W F L P L W 
+8: N F Q 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 1 from 3 to 5
+1: 
+2: 
+3: W 
+4: 
+5: S 
+6: L N P V C P 
+7: Z B V G C F M N D D S C V Z W F L P L W 
+8: N F Q 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 1 from 3 to 8
+1: 
+2: 
+3: 
+4: 
+5: S 
+6: L N P V C P 
+7: Z B V G C F M N D D S C V Z W F L P L W 
+8: N F Q W 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 14 from 7 to 4
+1: 
+2: 
+3: 
+4: M N D D S C V Z W F L P L W 
+5: S 
+6: L N P V C P 
+7: Z B V G C F 
+8: N F Q W 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 1 from 5 to 6
+1: 
+2: 
+3: 
+4: M N D D S C V Z W F L P L W 
+5: 
+6: L N P V C P S 
+7: Z B V G C F 
+8: N F Q W 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H 
+
+Move 7 from 6 to 9
+1: 
+2: 
+3: 
+4: M N D D S C V Z W F L P L W 
+5: 
+6: 
+7: Z B V G C F 
+8: N F Q W 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H L N P V C P S 
+
+Move 6 from 7 to 9
+1: 
+2: 
+3: 
+4: M N D D S C V Z W F L P L W 
+5: 
+6: 
+7: 
+8: N F Q W 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F 
+
+Move 2 from 8 to 9
+1: 
+2: 
+3: 
+4: M N D D S C V Z W F L P L W 
+5: 
+6: 
+7: 
+8: N F 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+
+Move 2 from 8 to 1
+1: N F 
+2: 
+3: 
+4: M N D D S C V Z W F L P L W 
+5: 
+6: 
+7: 
+8: 
+9: G C C D M G Q B D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+
+Move 31 from 9 to 1
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+2: 
+3: 
+4: M N D D S C V Z W F L P L W 
+5: 
+6: 
+7: 
+8: 
+9: G C C D M G Q B D 
+
+Move 13 from 4 to 2
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+2: N D D S C V Z W F L P L W 
+3: 
+4: M 
+5: 
+6: 
+7: 
+8: 
+9: G C C D M G Q B D 
+
+Move 1 from 4 to 3
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+2: N D D S C V Z W F L P L W 
+3: M 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: G C C D M G Q B D 
+
+Move 10 from 2 to 7
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+2: N D D 
+3: M 
+4: 
+5: 
+6: 
+7: S C V Z W F L P L W 
+8: 
+9: G C C D M G Q B D 
+
+Move 1 from 3 to 4
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+2: N D D 
+3: 
+4: M 
+5: 
+6: 
+7: S C V Z W F L P L W 
+8: 
+9: G C C D M G Q B D 
+
+Move 1 from 2 to 7
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+2: N D 
+3: 
+4: M 
+5: 
+6: 
+7: S C V Z W F L P L W D 
+8: 
+9: G C C D M G Q B D 
+
+Move 3 from 7 to 8
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W 
+2: N D 
+3: 
+4: M 
+5: 
+6: 
+7: S C V Z W F L P 
+8: L W D 
+9: G C C D M G Q B D 
+
+Move 1 from 4 to 1
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+2: N D 
+3: 
+4: 
+5: 
+6: 
+7: S C V Z W F L P 
+8: L W D 
+9: G C C D M G Q B D 
+
+Move 3 from 8 to 5
+1: N F T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+2: N D 
+3: 
+4: 
+5: L W D 
+6: 
+7: S C V Z W F L P 
+8: 
+9: G C C D M G Q B D 
+
+Move 32 from 1 to 5
+1: N F 
+2: N D 
+3: 
+4: 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: 
+7: S C V Z W F L P 
+8: 
+9: G C C D M G Q B D 
+
+Move 3 from 9 to 7
+1: N F 
+2: N D 
+3: 
+4: 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: 
+7: S C V Z W F L P Q B D 
+8: 
+9: G C C D M G 
+
+Move 4 from 9 to 6
+1: N F 
+2: N D 
+3: 
+4: 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: C D M G 
+7: S C V Z W F L P Q B D 
+8: 
+9: G C 
+
+Move 2 from 2 to 7
+1: N F 
+2: 
+3: 
+4: 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: C D M G 
+7: S C V Z W F L P Q B D N D 
+8: 
+9: G C 
+
+Move 2 from 1 to 7
+1: 
+2: 
+3: 
+4: 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: C D M G 
+7: S C V Z W F L P Q B D N D N F 
+8: 
+9: G C 
+
+Move 1 from 6 to 1
+1: G 
+2: 
+3: 
+4: 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: C D M 
+7: S C V Z W F L P Q B D N D N F 
+8: 
+9: G C 
+
+Move 1 from 9 to 4
+1: G 
+2: 
+3: 
+4: C 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: C D M 
+7: S C V Z W F L P Q B D N D N F 
+8: 
+9: G 
+
+Move 3 from 6 to 4
+1: G 
+2: 
+3: 
+4: C C D M 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: 
+7: S C V Z W F L P Q B D N D N F 
+8: 
+9: G 
+
+Move 1 from 1 to 8
+1: 
+2: 
+3: 
+4: C C D M 
+5: L W D T P G P R C D S W M L R Q Z V H L N P V C P S Z B V G C F Q W M 
+6: 
+7: S C V Z W F L P Q B D N D N F 
+8: G 
+9: G 
+
+Move 15 from 5 to 1
+1: N P V C P S Z B V G C F Q W M 
+2: 
+3: 
+4: C C D M 
+5: L W D T P G P R C D S W M L R Q Z V H L 
+6: 
+7: S C V Z W F L P Q B D N D N F 
+8: G 
+9: G 
+
+Move 1 from 8 to 4
+1: N P V C P S Z B V G C F Q W M 
+2: 
+3: 
+4: C C D M G 
+5: L W D T P G P R C D S W M L R Q Z V H L 
+6: 
+7: S C V Z W F L P Q B D N D N F 
+8: 
+9: G 
+
+Move 9 from 5 to 7
+1: N P V C P S Z B V G C F Q W M 
+2: 
+3: 
+4: C C D M G 
+5: L W D T P G P R C D S 
+6: 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L 
+8: 
+9: G 
+
+Move 1 from 9 to 8
+1: N P V C P S Z B V G C F Q W M 
+2: 
+3: 
+4: C C D M G 
+5: L W D T P G P R C D S 
+6: 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L 
+8: G 
+9: 
+
+Move 1 from 8 to 1
+1: N P V C P S Z B V G C F Q W M G 
+2: 
+3: 
+4: C C D M G 
+5: L W D T P G P R C D S 
+6: 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L 
+8: 
+9: 
+
+Move 10 from 1 to 9
+1: N P V C P S 
+2: 
+3: 
+4: C C D M G 
+5: L W D T P G P R C D S 
+6: 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L 
+8: 
+9: Z B V G C F Q W M G 
+
+Move 1 from 4 to 2
+1: N P V C P S 
+2: G 
+3: 
+4: C C D M 
+5: L W D T P G P R C D S 
+6: 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L 
+8: 
+9: Z B V G C F Q W M G 
+
+Move 2 from 9 to 5
+1: N P V C P S 
+2: G 
+3: 
+4: C C D M 
+5: L W D T P G P R C D S M G 
+6: 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L 
+8: 
+9: Z B V G C F Q W 
+
+Move 4 from 9 to 6
+1: N P V C P S 
+2: G 
+3: 
+4: C C D M 
+5: L W D T P G P R C D S M G 
+6: C F Q W 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L 
+8: 
+9: Z B V G 
+
+Move 1 from 2 to 7
+1: N P V C P S 
+2: 
+3: 
+4: C C D M 
+5: L W D T P G P R C D S M G 
+6: C F Q W 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L G 
+8: 
+9: Z B V G 
+
+Move 3 from 4 to 2
+1: N P V C P S 
+2: C D M 
+3: 
+4: C 
+5: L W D T P G P R C D S M G 
+6: C F Q W 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L G 
+8: 
+9: Z B V G 
+
+Move 1 from 1 to 5
+1: N P V C P 
+2: C D M 
+3: 
+4: C 
+5: L W D T P G P R C D S M G S 
+6: C F Q W 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L G 
+8: 
+9: Z B V G 
+
+Move 5 from 1 to 5
+1: 
+2: C D M 
+3: 
+4: C 
+5: L W D T P G P R C D S M G S N P V C P 
+6: C F Q W 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L G 
+8: 
+9: Z B V G 
+
+Move 1 from 4 to 9
+1: 
+2: C D M 
+3: 
+4: 
+5: L W D T P G P R C D S M G S N P V C P 
+6: C F Q W 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L G 
+8: 
+9: Z B V G C 
+
+Move 3 from 6 to 7
+1: 
+2: C D M 
+3: 
+4: 
+5: L W D T P G P R C D S M G S N P V C P 
+6: C 
+7: S C V Z W F L P Q B D N D N F W M L R Q Z V H L G F Q W 
+8: 
+9: Z B V G C 
+
+Move 23 from 7 to 6
+1: 
+2: C D M 
+3: 
+4: 
+5: L W D T P G P R C D S M G S N P V C P 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W 
+7: S C V Z W 
+8: 
+9: Z B V G C 
+
+Move 1 from 2 to 4
+1: 
+2: C D 
+3: 
+4: M 
+5: L W D T P G P R C D S M G S N P V C P 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W 
+7: S C V Z W 
+8: 
+9: Z B V G C 
+
+Move 1 from 2 to 5
+1: 
+2: C 
+3: 
+4: M 
+5: L W D T P G P R C D S M G S N P V C P D 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W 
+7: S C V Z W 
+8: 
+9: Z B V G C 
+
+Move 9 from 5 to 4
+1: 
+2: C 
+3: 
+4: M M G S N P V C P D 
+5: L W D T P G P R C D S 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W 
+7: S C V Z W 
+8: 
+9: Z B V G C 
+
+Move 1 from 2 to 5
+1: 
+2: 
+3: 
+4: M M G S N P V C P D 
+5: L W D T P G P R C D S C 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W 
+7: S C V Z W 
+8: 
+9: Z B V G C 
+
+Move 9 from 5 to 6
+1: 
+2: 
+3: 
+4: M M G S N P V C P D 
+5: L W D 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W T P G P R C D S C 
+7: S C V Z W 
+8: 
+9: Z B V G C 
+
+Move 1 from 9 to 7
+1: 
+2: 
+3: 
+4: M M G S N P V C P D 
+5: L W D 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W T P G P R C D S C 
+7: S C V Z W C 
+8: 
+9: Z B V G 
+
+Move 1 from 9 to 3
+1: 
+2: 
+3: G 
+4: M M G S N P V C P D 
+5: L W D 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W T P G P R C D S C 
+7: S C V Z W C 
+8: 
+9: Z B V 
+
+Move 3 from 9 to 4
+1: 
+2: 
+3: G 
+4: M M G S N P V C P D Z B V 
+5: L W D 
+6: C F L P Q B D N D N F W M L R Q Z V H L G F Q W T P G P R C D S C 
+7: S C V Z W C 
+8: 
+9: 
+
+Move 14 from 6 to 3
+1: 
+2: 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z B V 
+5: L W D 
+6: C F L P Q B D N D N F W M L R Q Z V H 
+7: S C V Z W C 
+8: 
+9: 
+
+Move 5 from 7 to 4
+1: 
+2: 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z B V C V Z W C 
+5: L W D 
+6: C F L P Q B D N D N F W M L R Q Z V H 
+7: S 
+8: 
+9: 
+
+Move 1 from 7 to 5
+1: 
+2: 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z B V C V Z W C 
+5: L W D S 
+6: C F L P Q B D N D N F W M L R Q Z V H 
+7: 
+8: 
+9: 
+
+Move 1 from 5 to 9
+1: 
+2: 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z B V C V Z W C 
+5: L W D 
+6: C F L P Q B D N D N F W M L R Q Z V H 
+7: 
+8: 
+9: S 
+
+Move 2 from 5 to 6
+1: 
+2: 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z B V C V Z W C 
+5: L 
+6: C F L P Q B D N D N F W M L R Q Z V H W D 
+7: 
+8: 
+9: S 
+
+Move 16 from 6 to 2
+1: 
+2: B D N D N F W M L R Q Z V H W D 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z B V C V Z W C 
+5: L 
+6: C F L P Q 
+7: 
+8: 
+9: S 
+
+Move 2 from 6 to 1
+1: P Q 
+2: B D N D N F W M L R Q Z V H W D 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z B V C V Z W C 
+5: L 
+6: C F L 
+7: 
+8: 
+9: S 
+
+Move 7 from 4 to 8
+1: P Q 
+2: B D N D N F W M L R Q Z V H W D 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z 
+5: L 
+6: C F L 
+7: 
+8: B V C V Z W C 
+9: S 
+
+Move 2 from 1 to 2
+1: 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R C D S C 
+4: M M G S N P V C P D Z 
+5: L 
+6: C F L 
+7: 
+8: B V C V Z W C 
+9: S 
+
+Move 4 from 3 to 5
+1: 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M M G S N P V C P D Z 
+5: L C D S C 
+6: C F L 
+7: 
+8: B V C V Z W C 
+9: S 
+
+Move 5 from 4 to 7
+1: 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M M G S N P 
+5: L C D S C 
+6: C F L 
+7: V C P D Z 
+8: B V C V Z W C 
+9: S 
+
+Move 2 from 6 to 7
+1: 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M M G S N P 
+5: L C D S C 
+6: C 
+7: V C P D Z F L 
+8: B V C V Z W C 
+9: S 
+
+Move 4 from 4 to 1
+1: G S N P 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M M 
+5: L C D S C 
+6: C 
+7: V C P D Z F L 
+8: B V C V Z W C 
+9: S 
+
+Move 4 from 8 to 9
+1: G S N P 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M M 
+5: L C D S C 
+6: C 
+7: V C P D Z F L 
+8: B V C 
+9: S V Z W C 
+
+Move 1 from 4 to 5
+1: G S N P 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M 
+5: L C D S C M 
+6: C 
+7: V C P D Z F L 
+8: B V C 
+9: S V Z W C 
+
+Move 1 from 6 to 8
+1: G S N P 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M 
+5: L C D S C M 
+6: 
+7: V C P D Z F L 
+8: B V C C 
+9: S V Z W C 
+
+Move 1 from 4 to 9
+1: G S N P 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: 
+5: L C D S C M 
+6: 
+7: V C P D Z F L 
+8: B V C C 
+9: S V Z W C M 
+
+Move 4 from 1 to 7
+1: 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: 
+5: L C D S C M 
+6: 
+7: V C P D Z F L G S N P 
+8: B V C C 
+9: S V Z W C M 
+
+Move 1 from 9 to 4
+1: 
+2: B D N D N F W M L R Q Z V H W D P Q 
+3: G L G F Q W T P G P R 
+4: M 
+5: L C D S C M 
+6: 
+7: V C P D Z F L G S N P 
+8: B V C C 
+9: S V Z W C 
+
+Move 2 from 2 to 7
+1: 
+2: B D N D N F W M L R Q Z V H W D 
+3: G L G F Q W T P G P R 
+4: M 
+5: L C D S C M 
+6: 
+7: V C P D Z F L G S N P P Q 
+8: B V C C 
+9: S V Z W C 
+
+Move 7 from 3 to 9
+1: 
+2: B D N D N F W M L R Q Z V H W D 
+3: G L G F 
+4: M 
+5: L C D S C M 
+6: 
+7: V C P D Z F L G S N P P Q 
+8: B V C C 
+9: S V Z W C Q W T P G P R 
+
+Move 15 from 2 to 3
+1: 
+2: B 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: M 
+5: L C D S C M 
+6: 
+7: V C P D Z F L G S N P P Q 
+8: B V C C 
+9: S V Z W C Q W T P G P R 
+
+Move 4 from 8 to 6
+1: 
+2: B 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: M 
+5: L C D S C M 
+6: B V C C 
+7: V C P D Z F L G S N P P Q 
+8: 
+9: S V Z W C Q W T P G P R 
+
+Move 1 from 4 to 7
+1: 
+2: B 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C M 
+6: B V C C 
+7: V C P D Z F L G S N P P Q M 
+8: 
+9: S V Z W C Q W T P G P R 
+
+Move 2 from 9 to 7
+1: 
+2: B 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C M 
+6: B V C C 
+7: V C P D Z F L G S N P P Q M P R 
+8: 
+9: S V Z W C Q W T P G 
+
+Move 1 from 6 to 8
+1: 
+2: B 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C M 
+6: B V C 
+7: V C P D Z F L G S N P P Q M P R 
+8: C 
+9: S V Z W C Q W T P G 
+
+Move 2 from 7 to 2
+1: 
+2: B P R 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C M 
+6: B V C 
+7: V C P D Z F L G S N P P Q M 
+8: C 
+9: S V Z W C Q W T P G 
+
+Move 5 from 7 to 2
+1: 
+2: B P R N P P Q M 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C M 
+6: B V C 
+7: V C P D Z F L G S 
+8: C 
+9: S V Z W C Q W T P G 
+
+Move 1 from 5 to 2
+1: 
+2: B P R N P P Q M M 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C 
+6: B V C 
+7: V C P D Z F L G S 
+8: C 
+9: S V Z W C Q W T P G 
+
+Move 6 from 2 to 9
+1: 
+2: B P R 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C 
+6: B V C 
+7: V C P D Z F L G S 
+8: C 
+9: S V Z W C Q W T P G N P P Q M M 
+
+Move 3 from 7 to 1
+1: L G S 
+2: B P R 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C 
+6: B V C 
+7: V C P D Z F 
+8: C 
+9: S V Z W C Q W T P G N P P Q M M 
+
+Move 3 from 1 to 2
+1: 
+2: B P R L G S 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C 
+6: B V C 
+7: V C P D Z F 
+8: C 
+9: S V Z W C Q W T P G N P P Q M M 
+
+Move 3 from 7 to 1
+1: D Z F 
+2: B P R L G S 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C 
+6: B V C 
+7: V C P 
+8: C 
+9: S V Z W C Q W T P G N P P Q M M 
+
+Move 2 from 2 to 9
+1: D Z F 
+2: B P R L 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C 
+6: B V C 
+7: V C P 
+8: C 
+9: S V Z W C Q W T P G N P P Q M M G S 
+
+Move 2 from 6 to 9
+1: D Z F 
+2: B P R L 
+3: G L G F D N D N F W M L R Q Z V H W D 
+4: 
+5: L C D S C 
+6: B 
+7: V C P 
+8: C 
+9: S V Z W C Q W T P G N P P Q M M G S V C 
+
+Move 1 from 8 to 3
+1: D Z F 
+2: B P R L 
+3: G L G F D N D N F W M L R Q Z V H W D C 
+4: 
+5: L C D S C 
+6: B 
+7: V C P 
+8: 
+9: S V Z W C Q W T P G N P P Q M M G S V C 
+
+Move 19 from 3 to 9
+1: D Z F 
+2: B P R L 
+3: G 
+4: 
+5: L C D S C 
+6: B 
+7: V C P 
+8: 
+9: S V Z W C Q W T P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C 
+
+Move 1 from 6 to 3
+1: D Z F 
+2: B P R L 
+3: G B 
+4: 
+5: L C D S C 
+6: 
+7: V C P 
+8: 
+9: S V Z W C Q W T P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C 
+
+Move 3 from 7 to 4
+1: D Z F 
+2: B P R L 
+3: G B 
+4: V C P 
+5: L C D S C 
+6: 
+7: 
+8: 
+9: S V Z W C Q W T P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C 
+
+Move 1 from 2 to 5
+1: D Z F 
+2: B P R 
+3: G B 
+4: V C P 
+5: L C D S C L 
+6: 
+7: 
+8: 
+9: S V Z W C Q W T P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C 
+
+Move 2 from 1 to 9
+1: D 
+2: B P R 
+3: G B 
+4: V C P 
+5: L C D S C L 
+6: 
+7: 
+8: 
+9: S V Z W C Q W T P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F 
+
+Move 2 from 2 to 3
+1: D 
+2: B 
+3: G B P R 
+4: V C P 
+5: L C D S C L 
+6: 
+7: 
+8: 
+9: S V Z W C Q W T P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F 
+
+Move 33 from 9 to 7
+1: D 
+2: B 
+3: G B P R 
+4: V C P 
+5: L C D S C L 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F 
+8: 
+9: S V Z W C Q W T 
+
+Move 1 from 1 to 7
+1: 
+2: B 
+3: G B P R 
+4: V C P 
+5: L C D S C L 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D 
+8: 
+9: S V Z W C Q W T 
+
+Move 3 from 3 to 7
+1: 
+2: B 
+3: G 
+4: V C P 
+5: L C D S C L 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R 
+8: 
+9: S V Z W C Q W T 
+
+Move 1 from 3 to 2
+1: 
+2: B G 
+3: 
+4: V C P 
+5: L C D S C L 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R 
+8: 
+9: S V Z W C Q W T 
+
+Move 1 from 5 to 8
+1: 
+2: B G 
+3: 
+4: V C P 
+5: L C D S C 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R 
+8: L 
+9: S V Z W C Q W T 
+
+Move 4 from 9 to 7
+1: 
+2: B G 
+3: 
+4: V C P 
+5: L C D S C 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T 
+8: L 
+9: S V Z W 
+
+Move 1 from 5 to 2
+1: 
+2: B G C 
+3: 
+4: V C P 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T 
+8: L 
+9: S V Z W 
+
+Move 2 from 4 to 9
+1: 
+2: B G C 
+3: 
+4: V 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T 
+8: L 
+9: S V Z W C P 
+
+Move 4 from 9 to 7
+1: 
+2: B G C 
+3: 
+4: V 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T Z W C P 
+8: L 
+9: S V 
+
+Move 3 from 2 to 1
+1: B G C 
+2: 
+3: 
+4: V 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T Z W C P 
+8: L 
+9: S V 
+
+Move 1 from 4 to 3
+1: B G C 
+2: 
+3: V 
+4: 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T Z W C P 
+8: L 
+9: S V 
+
+Move 1 from 9 to 7
+1: B G C 
+2: 
+3: V 
+4: 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T Z W C P V 
+8: L 
+9: S 
+
+Move 1 from 8 to 3
+1: B G C 
+2: 
+3: V L 
+4: 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q W T Z W C P V 
+8: 
+9: S 
+
+Move 7 from 7 to 3
+1: B G C 
+2: 
+3: V L W T Z W C P V 
+4: 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q 
+8: 
+9: S 
+
+Move 3 from 1 to 9
+1: 
+2: 
+3: V L W T Z W C P V 
+4: 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q 
+8: 
+9: S B G C 
+
+Move 4 from 9 to 7
+1: 
+2: 
+3: V L W T Z W C P V 
+4: 
+5: L C D S 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+8: 
+9: 
+
+Move 4 from 5 to 8
+1: 
+2: 
+3: V L W T Z W C P V 
+4: 
+5: 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+8: L C D S 
+9: 
+
+Move 3 from 3 to 4
+1: 
+2: 
+3: V L W T Z W 
+4: C P V 
+5: 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+8: L C D S 
+9: 
+
+Move 3 from 4 to 5
+1: 
+2: 
+3: V L W T Z W 
+4: 
+5: C P V 
+6: 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+8: L C D S 
+9: 
+
+Move 3 from 3 to 6
+1: 
+2: 
+3: V L W 
+4: 
+5: C P V 
+6: T Z W 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+8: L C D S 
+9: 
+
+Move 2 from 6 to 5
+1: 
+2: 
+3: V L W 
+4: 
+5: C P V Z W 
+6: T 
+7: P G N P P Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+8: L C D S 
+9: 
+
+Move 38 from 7 to 5
+1: 
+2: 
+3: V L W 
+4: 
+5: C P V Z W Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+6: T 
+7: P G N P P 
+8: L C D S 
+9: 
+
+Move 40 from 5 to 3
+1: 
+2: 
+3: V L W Z W Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+4: 
+5: C P V 
+6: T 
+7: P G N P P 
+8: L C D S 
+9: 
+
+Move 4 from 8 to 9
+1: 
+2: 
+3: V L W Z W Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+4: 
+5: C P V 
+6: T 
+7: P G N P P 
+8: 
+9: L C D S 
+
+Move 1 from 6 to 9
+1: 
+2: 
+3: V L W Z W Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+4: 
+5: C P V 
+6: 
+7: P G N P P 
+8: 
+9: L C D S T 
+
+Move 1 from 5 to 1
+1: V 
+2: 
+3: V L W Z W Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+4: 
+5: C P 
+6: 
+7: P G N P P 
+8: 
+9: L C D S T 
+
+Move 3 from 7 to 6
+1: V 
+2: 
+3: V L W Z W Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+4: 
+5: C P 
+6: N P P 
+7: P G 
+8: 
+9: L C D S T 
+
+Move 1 from 7 to 5
+1: V 
+2: 
+3: V L W Z W Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+4: 
+5: C P G 
+6: N P P 
+7: P 
+8: 
+9: L C D S T 
+
+Move 38 from 3 to 8
+1: V 
+2: 
+3: V L W Z W 
+4: 
+5: C P G 
+6: N P P 
+7: P 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+9: L C D S T 
+
+Move 1 from 1 to 9
+1: 
+2: 
+3: V L W Z W 
+4: 
+5: C P G 
+6: N P P 
+7: P 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+9: L C D S T V 
+
+Move 3 from 9 to 6
+1: 
+2: 
+3: V L W Z W 
+4: 
+5: C P G 
+6: N P P S T V 
+7: P 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+9: L C D 
+
+Move 5 from 3 to 9
+1: 
+2: 
+3: 
+4: 
+5: C P G 
+6: N P P S T V 
+7: P 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q S B G C 
+9: L C D V L W Z W 
+
+Move 4 from 8 to 6
+1: 
+2: 
+3: 
+4: 
+5: C P G 
+6: N P P S T V S B G C 
+7: P 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q 
+9: L C D V L W Z W 
+
+Move 1 from 7 to 1
+1: P 
+2: 
+3: 
+4: 
+5: C P G 
+6: N P P S T V S B G C 
+7: 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q 
+9: L C D V L W Z W 
+
+Move 3 from 5 to 9
+1: P 
+2: 
+3: 
+4: 
+5: 
+6: N P P S T V S B G C 
+7: 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q 
+9: L C D V L W Z W C P G 
+
+Move 1 from 1 to 2
+1: 
+2: P 
+3: 
+4: 
+5: 
+6: N P P S T V S B G C 
+7: 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W D C Z F D B P R C Q 
+9: L C D V L W Z W C P G 
+
+Move 10 from 8 to 3
+1: 
+2: P 
+3: D C Z F D B P R C Q 
+4: 
+5: 
+6: N P P S T V S B G C 
+7: 
+8: Q M M G S V C L G F D N D N F W M L R Q Z V H W 
+9: L C D V L W Z W C P G 
+
+Move 5 from 8 to 1
+1: Q Z V H W 
+2: P 
+3: D C Z F D B P R C Q 
+4: 
+5: 
+6: N P P S T V S B G C 
+7: 
+8: Q M M G S V C L G F D N D N F W M L R 
+9: L C D V L W Z W C P G 
+
+Move 3 from 1 to 2
+1: Q Z 
+2: P V H W 
+3: D C Z F D B P R C Q 
+4: 
+5: 
+6: N P P S T V S B G C 
+7: 
+8: Q M M G S V C L G F D N D N F W M L R 
+9: L C D V L W Z W C P G 
+
+Move 9 from 6 to 7
+1: Q Z 
+2: P V H W 
+3: D C Z F D B P R C Q 
+4: 
+5: 
+6: N 
+7: P P S T V S B G C 
+8: Q M M G S V C L G F D N D N F W M L R 
+9: L C D V L W Z W C P G 
+
+Move 9 from 3 to 5
+1: Q Z 
+2: P V H W 
+3: D 
+4: 
+5: C Z F D B P R C Q 
+6: N 
+7: P P S T V S B G C 
+8: Q M M G S V C L G F D N D N F W M L R 
+9: L C D V L W Z W C P G 
+
+Move 1 from 7 to 6
+1: Q Z 
+2: P V H W 
+3: D 
+4: 
+5: C Z F D B P R C Q 
+6: N C 
+7: P P S T V S B G 
+8: Q M M G S V C L G F D N D N F W M L R 
+9: L C D V L W Z W C P G 
+
+Move 1 from 3 to 8
+1: Q Z 
+2: P V H W 
+3: 
+4: 
+5: C Z F D B P R C Q 
+6: N C 
+7: P P S T V S B G 
+8: Q M M G S V C L G F D N D N F W M L R D 
+9: L C D V L W Z W C P G 
+
+Move 1 from 7 to 9
+1: Q Z 
+2: P V H W 
+3: 
+4: 
+5: C Z F D B P R C Q 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D N D N F W M L R D 
+9: L C D V L W Z W C P G G 
+
+Move 1 from 1 to 5
+1: Q 
+2: P V H W 
+3: 
+4: 
+5: C Z F D B P R C Q Z 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D N D N F W M L R D 
+9: L C D V L W Z W C P G G 
+
+Move 1 from 1 to 3
+1: 
+2: P V H W 
+3: Q 
+4: 
+5: C Z F D B P R C Q Z 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D N D N F W M L R D 
+9: L C D V L W Z W C P G G 
+
+Move 1 from 9 to 2
+1: 
+2: P V H W G 
+3: Q 
+4: 
+5: C Z F D B P R C Q Z 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D N D N F W M L R D 
+9: L C D V L W Z W C P G 
+
+Move 4 from 2 to 3
+1: 
+2: P 
+3: Q V H W G 
+4: 
+5: C Z F D B P R C Q Z 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D N D N F W M L R D 
+9: L C D V L W Z W C P G 
+
+Move 1 from 2 to 4
+1: 
+2: 
+3: Q V H W G 
+4: P 
+5: C Z F D B P R C Q Z 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D N D N F W M L R D 
+9: L C D V L W Z W C P G 
+
+Move 9 from 8 to 1
+1: N D N F W M L R D 
+2: 
+3: Q V H W G 
+4: P 
+5: C Z F D B P R C Q Z 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D 
+9: L C D V L W Z W C P G 
+
+Move 2 from 9 to 5
+1: N D N F W M L R D 
+2: 
+3: Q V H W G 
+4: P 
+5: C Z F D B P R C Q Z P G 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D 
+9: L C D V L W Z W C 
+
+Move 2 from 1 to 2
+1: N D N F W M L 
+2: R D 
+3: Q V H W G 
+4: P 
+5: C Z F D B P R C Q Z P G 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D 
+9: L C D V L W Z W C 
+
+Move 2 from 3 to 4
+1: N D N F W M L 
+2: R D 
+3: Q V H 
+4: P W G 
+5: C Z F D B P R C Q Z P G 
+6: N C 
+7: P P S T V S B 
+8: Q M M G S V C L G F D 
+9: L C D V L W Z W C 
+
+Move 6 from 8 to 6
+1: N D N F W M L 
+2: R D 
+3: Q V H 
+4: P W G 
+5: C Z F D B P R C Q Z P G 
+6: N C V C L G F D 
+7: P P S T V S B 
+8: Q M M G S 
+9: L C D V L W Z W C 
+
+Move 10 from 5 to 3
+1: N D N F W M L 
+2: R D 
+3: Q V H F D B P R C Q Z P G 
+4: P W G 
+5: C Z 
+6: N C V C L G F D 
+7: P P S T V S B 
+8: Q M M G S 
+9: L C D V L W Z W C 
+
+Move 7 from 3 to 2
+1: N D N F W M L 
+2: R D P R C Q Z P G 
+3: Q V H F D B 
+4: P W G 
+5: C Z 
+6: N C V C L G F D 
+7: P P S T V S B 
+8: Q M M G S 
+9: L C D V L W Z W C 
+
+Move 2 from 1 to 2
+1: N D N F W 
+2: R D P R C Q Z P G M L 
+3: Q V H F D B 
+4: P W G 
+5: C Z 
+6: N C V C L G F D 
+7: P P S T V S B 
+8: Q M M G S 
+9: L C D V L W Z W C 
+
+Move 5 from 1 to 7
+1: 
+2: R D P R C Q Z P G M L 
+3: Q V H F D B 
+4: P W G 
+5: C Z 
+6: N C V C L G F D 
+7: P P S T V S B N D N F W 
+8: Q M M G S 
+9: L C D V L W Z W C 
+
+Move 7 from 9 to 6
+1: 
+2: R D P R C Q Z P G M L 
+3: Q V H F D B 
+4: P W G 
+5: C Z 
+6: N C V C L G F D D V L W Z W C 
+7: P P S T V S B N D N F W 
+8: Q M M G S 
+9: L C 
+
+Move 7 from 6 to 5
+1: 
+2: R D P R C Q Z P G M L 
+3: Q V H F D B 
+4: P W G 
+5: C Z D V L W Z W C 
+6: N C V C L G F D 
+7: P P S T V S B N D N F W 
+8: Q M M G S 
+9: L C 
+
+Move 1 from 4 to 3
+1: 
+2: R D P R C Q Z P G M L 
+3: Q V H F D B G 
+4: P W 
+5: C Z D V L W Z W C 
+6: N C V C L G F D 
+7: P P S T V S B N D N F W 
+8: Q M M G S 
+9: L C 
+
+Move 7 from 7 to 4
+1: 
+2: R D P R C Q Z P G M L 
+3: Q V H F D B G 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C 
+6: N C V C L G F D 
+7: P P S T V 
+8: Q M M G S 
+9: L C 
+
+Move 5 from 3 to 9
+1: 
+2: R D P R C Q Z P G M L 
+3: Q V 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C 
+6: N C V C L G F D 
+7: P P S T V 
+8: Q M M G S 
+9: L C H F D B G 
+
+Move 7 from 2 to 6
+1: 
+2: R D P R 
+3: Q V 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C 
+6: N C V C L G F D C Q Z P G M L 
+7: P P S T V 
+8: Q M M G S 
+9: L C H F D B G 
+
+Move 4 from 7 to 8
+1: 
+2: R D P R 
+3: Q V 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C 
+6: N C V C L G F D C Q Z P G M L 
+7: P 
+8: Q M M G S P S T V 
+9: L C H F D B G 
+
+Move 5 from 8 to 9
+1: 
+2: R D P R 
+3: Q V 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C 
+6: N C V C L G F D C Q Z P G M L 
+7: P 
+8: Q M M G 
+9: L C H F D B G S P S T V 
+
+Move 1 from 2 to 6
+1: 
+2: R D P 
+3: Q V 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C 
+6: N C V C L G F D C Q Z P G M L R 
+7: P 
+8: Q M M G 
+9: L C H F D B G S P S T V 
+
+Move 1 from 3 to 5
+1: 
+2: R D P 
+3: Q 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C V 
+6: N C V C L G F D C Q Z P G M L R 
+7: P 
+8: Q M M G 
+9: L C H F D B G S P S T V 
+
+Move 2 from 2 to 8
+1: 
+2: R 
+3: Q 
+4: P W S B N D N F W 
+5: C Z D V L W Z W C V 
+6: N C V C L G F D C Q Z P G M L R 
+7: P 
+8: Q M M G D P 
+9: L C H F D B G S P S T V 
+
+Move 8 from 4 to 6
+1: 
+2: R 
+3: Q 
+4: P 
+5: C Z D V L W Z W C V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P 
+8: Q M M G D P 
+9: L C H F D B G S P S T V 
+
+Move 7 from 9 to 7
+1: 
+2: R 
+3: Q 
+4: P 
+5: C Z D V L W Z W C V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P B G S P S T V 
+8: Q M M G D P 
+9: L C H F D 
+
+Move 4 from 7 to 9
+1: 
+2: R 
+3: Q 
+4: P 
+5: C Z D V L W Z W C V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P B G S 
+8: Q M M G D P 
+9: L C H F D P S T V 
+
+Move 7 from 9 to 3
+1: 
+2: R 
+3: Q H F D P S T V 
+4: P 
+5: C Z D V L W Z W C V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P B G S 
+8: Q M M G D P 
+9: L C 
+
+Move 8 from 3 to 1
+1: Q H F D P S T V 
+2: R 
+3: 
+4: P 
+5: C Z D V L W Z W C V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P B G S 
+8: Q M M G D P 
+9: L C 
+
+Move 6 from 5 to 9
+1: Q H F D P S T V 
+2: R 
+3: 
+4: P 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P B G S 
+8: Q M M G D P 
+9: L C L W Z W C V 
+
+Move 8 from 1 to 8
+1: 
+2: R 
+3: 
+4: P 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P B G S 
+8: Q M M G D P Q H F D P S T V 
+9: L C L W Z W C V 
+
+Move 13 from 8 to 4
+1: 
+2: R 
+3: 
+4: P M M G D P Q H F D P S T V 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W 
+7: P B G S 
+8: Q 
+9: L C L W Z W C V 
+
+Move 3 from 9 to 6
+1: 
+2: R 
+3: 
+4: P M M G D P Q H F D P S T V 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W W C V 
+7: P B G S 
+8: Q 
+9: L C L W Z 
+
+Move 1 from 8 to 6
+1: 
+2: R 
+3: 
+4: P M M G D P Q H F D P S T V 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W W C V Q 
+7: P B G S 
+8: 
+9: L C L W Z 
+
+Move 1 from 7 to 3
+1: 
+2: R 
+3: S 
+4: P M M G D P Q H F D P S T V 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W W C V Q 
+7: P B G 
+8: 
+9: L C L W Z 
+
+Move 2 from 4 to 1
+1: T V 
+2: R 
+3: S 
+4: P M M G D P Q H F D P S 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W W C V Q 
+7: P B G 
+8: 
+9: L C L W Z 
+
+Move 5 from 9 to 1
+1: T V L C L W Z 
+2: R 
+3: S 
+4: P M M G D P Q H F D P S 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W W C V Q 
+7: P B G 
+8: 
+9: 
+
+Move 1 from 3 to 7
+1: T V L C L W Z 
+2: R 
+3: 
+4: P M M G D P Q H F D P S 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G M L R W S B N D N F W W C V Q 
+7: P B G S 
+8: 
+9: 
+
+Move 15 from 6 to 1
+1: T V L C L W Z M L R W S B N D N F W W C V Q 
+2: R 
+3: 
+4: P M M G D P Q H F D P S 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G 
+7: P B G S 
+8: 
+9: 
+
+Move 1 from 7 to 9
+1: T V L C L W Z M L R W S B N D N F W W C V Q 
+2: R 
+3: 
+4: P M M G D P Q H F D P S 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G 
+7: P B G 
+8: 
+9: S 
+
+Move 10 from 4 to 7
+1: T V L C L W Z M L R W S B N D N F W W C V Q 
+2: R 
+3: 
+4: P M 
+5: C Z D V 
+6: N C V C L G F D C Q Z P G 
+7: P B G M G D P Q H F D P S 
+8: 
+9: S 
+
+Move 11 from 7 to 5
+1: T V L C L W Z M L R W S B N D N F W W C V Q 
+2: R 
+3: 
+4: P M 
+5: C Z D V G M G D P Q H F D P S 
+6: N C V C L G F D C Q Z P G 
+7: P B 
+8: 
+9: S 
+
+Move 17 from 1 to 6
+1: T V L C L 
+2: R 
+3: 
+4: P M 
+5: C Z D V G M G D P Q H F D P S 
+6: N C V C L G F D C Q Z P G W Z M L R W S B N D N F W W C V Q 
+7: P B 
+8: 
+9: S 
+
+Move 1 from 9 to 3
+1: T V L C L 
+2: R 
+3: S 
+4: P M 
+5: C Z D V G M G D P Q H F D P S 
+6: N C V C L G F D C Q Z P G W Z M L R W S B N D N F W W C V Q 
+7: P B 
+8: 
+9: 
+
+Move 6 from 6 to 1
+1: T V L C L F W W C V Q 
+2: R 
+3: S 
+4: P M 
+5: C Z D V G M G D P Q H F D P S 
+6: N C V C L G F D C Q Z P G W Z M L R W S B N D N 
+7: P B 
+8: 
+9: 
+
+Move 3 from 5 to 3
+1: T V L C L F W W C V Q 
+2: R 
+3: S D P S 
+4: P M 
+5: C Z D V G M G D P Q H F 
+6: N C V C L G F D C Q Z P G W Z M L R W S B N D N 
+7: P B 
+8: 
+9: 
+
+Move 2 from 4 to 5
+1: T V L C L F W W C V Q 
+2: R 
+3: S D P S 
+4: 
+5: C Z D V G M G D P Q H F P M 
+6: N C V C L G F D C Q Z P G W Z M L R W S B N D N 
+7: P B 
+8: 
+9: 
+
+Move 2 from 7 to 8
+1: T V L C L F W W C V Q 
+2: R 
+3: S D P S 
+4: 
+5: C Z D V G M G D P Q H F P M 
+6: N C V C L G F D C Q Z P G W Z M L R W S B N D N 
+7: 
+8: P B 
+9: 
+
+Move 12 from 5 to 3
+1: T V L C L F W W C V Q 
+2: R 
+3: S D P S D V G M G D P Q H F P M 
+4: 
+5: C Z 
+6: N C V C L G F D C Q Z P G W Z M L R W S B N D N 
+7: 
+8: P B 
+9: 
+
+Move 13 from 6 to 9
+1: T V L C L F W W C V Q 
+2: R 
+3: S D P S D V G M G D P Q H F P M 
+4: 
+5: C Z 
+6: N C V C L G F D C Q Z 
+7: 
+8: P B 
+9: P G W Z M L R W S B N D N 
+
+Move 2 from 8 to 2
+1: T V L C L F W W C V Q 
+2: R P B 
+3: S D P S D V G M G D P Q H F P M 
+4: 
+5: C Z 
+6: N C V C L G F D C Q Z 
+7: 
+8: 
+9: P G W Z M L R W S B N D N 
+
+Move 2 from 5 to 1
+1: T V L C L F W W C V Q C Z 
+2: R P B 
+3: S D P S D V G M G D P Q H F P M 
+4: 
+5: 
+6: N C V C L G F D C Q Z 
+7: 
+8: 
+9: P G W Z M L R W S B N D N 
+
+Move 16 from 3 to 8
+1: T V L C L F W W C V Q C Z 
+2: R P B 
+3: 
+4: 
+5: 
+6: N C V C L G F D C Q Z 
+7: 
+8: S D P S D V G M G D P Q H F P M 
+9: P G W Z M L R W S B N D N 
+
+Move 3 from 2 to 3
+1: T V L C L F W W C V Q C Z 
+2: 
+3: R P B 
+4: 
+5: 
+6: N C V C L G F D C Q Z 
+7: 
+8: S D P S D V G M G D P Q H F P M 
+9: P G W Z M L R W S B N D N 
+
+Move 2 from 3 to 7
+1: T V L C L F W W C V Q C Z 
+2: 
+3: R 
+4: 
+5: 
+6: N C V C L G F D C Q Z 
+7: P B 
+8: S D P S D V G M G D P Q H F P M 
+9: P G W Z M L R W S B N D N 
+
+Move 2 from 7 to 9
+1: T V L C L F W W C V Q C Z 
+2: 
+3: R 
+4: 
+5: 
+6: N C V C L G F D C Q Z 
+7: 
+8: S D P S D V G M G D P Q H F P M 
+9: P G W Z M L R W S B N D N P B 
+
+Move 1 from 3 to 7
+1: T V L C L F W W C V Q C Z 
+2: 
+3: 
+4: 
+5: 
+6: N C V C L G F D C Q Z 
+7: R 
+8: S D P S D V G M G D P Q H F P M 
+9: P G W Z M L R W S B N D N P B 
+
+Move 4 from 8 to 4
+1: T V L C L F W W C V Q C Z 
+2: 
+3: 
+4: H F P M 
+5: 
+6: N C V C L G F D C Q Z 
+7: R 
+8: S D P S D V G M G D P Q 
+9: P G W Z M L R W S B N D N P B 
+
+Move 2 from 4 to 8
+1: T V L C L F W W C V Q C Z 
+2: 
+3: 
+4: H F 
+5: 
+6: N C V C L G F D C Q Z 
+7: R 
+8: S D P S D V G M G D P Q P M 
+9: P G W Z M L R W S B N D N P B 
+
+Move 5 from 1 to 5
+1: T V L C L F W W 
+2: 
+3: 
+4: H F 
+5: C V Q C Z 
+6: N C V C L G F D C Q Z 
+7: R 
+8: S D P S D V G M G D P Q P M 
+9: P G W Z M L R W S B N D N P B 
+
+Move 2 from 4 to 7
+1: T V L C L F W W 
+2: 
+3: 
+4: 
+5: C V Q C Z 
+6: N C V C L G F D C Q Z 
+7: R H F 
+8: S D P S D V G M G D P Q P M 
+9: P G W Z M L R W S B N D N P B 
+
+Move 6 from 6 to 8
+1: T V L C L F W W 
+2: 
+3: 
+4: 
+5: C V Q C Z 
+6: N C V C L 
+7: R H F 
+8: S D P S D V G M G D P Q P M G F D C Q Z 
+9: P G W Z M L R W S B N D N P B 
+
+Move 2 from 8 to 5
+1: T V L C L F W W 
+2: 
+3: 
+4: 
+5: C V Q C Z Q Z 
+6: N C V C L 
+7: R H F 
+8: S D P S D V G M G D P Q P M G F D C 
+9: P G W Z M L R W S B N D N P B 
+
+Move 2 from 1 to 4
+1: T V L C L F 
+2: 
+3: 
+4: W W 
+5: C V Q C Z Q Z 
+6: N C V C L 
+7: R H F 
+8: S D P S D V G M G D P Q P M G F D C 
+9: P G W Z M L R W S B N D N P B 
+
+Move 5 from 8 to 7
+1: T V L C L F 
+2: 
+3: 
+4: W W 
+5: C V Q C Z Q Z 
+6: N C V C L 
+7: R H F M G F D C 
+8: S D P S D V G M G D P Q P 
+9: P G W Z M L R W S B N D N P B 
+
+Move 5 from 6 to 3
+1: T V L C L F 
+2: 
+3: N C V C L 
+4: W W 
+5: C V Q C Z Q Z 
+6: 
+7: R H F M G F D C 
+8: S D P S D V G M G D P Q P 
+9: P G W Z M L R W S B N D N P B 
+
+Move 6 from 9 to 8
+1: T V L C L F 
+2: 
+3: N C V C L 
+4: W W 
+5: C V Q C Z Q Z 
+6: 
+7: R H F M G F D C 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R W S 
+
+Move 2 from 9 to 2
+1: T V L C L F 
+2: W S 
+3: N C V C L 
+4: W W 
+5: C V Q C Z Q Z 
+6: 
+7: R H F M G F D C 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R 
+
+Move 1 from 1 to 7
+1: T V L C L 
+2: W S 
+3: N C V C L 
+4: W W 
+5: C V Q C Z Q Z 
+6: 
+7: R H F M G F D C F 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R 
+
+Move 4 from 5 to 3
+1: T V L C L 
+2: W S 
+3: N C V C L C Z Q Z 
+4: W W 
+5: C V Q 
+6: 
+7: R H F M G F D C F 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R 
+
+Move 2 from 2 to 3
+1: T V L C L 
+2: 
+3: N C V C L C Z Q Z W S 
+4: W W 
+5: C V Q 
+6: 
+7: R H F M G F D C F 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R 
+
+Move 1 from 4 to 9
+1: T V L C L 
+2: 
+3: N C V C L C Z Q Z W S 
+4: W 
+5: C V Q 
+6: 
+7: R H F M G F D C F 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R W 
+
+Move 10 from 3 to 6
+1: T V L C L 
+2: 
+3: N 
+4: W 
+5: C V Q 
+6: C V C L C Z Q Z W S 
+7: R H F M G F D C F 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R W 
+
+Move 1 from 3 to 7
+1: T V L C L 
+2: 
+3: 
+4: W 
+5: C V Q 
+6: C V C L C Z Q Z W S 
+7: R H F M G F D C F N 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R W 
+
+Move 10 from 7 to 2
+1: T V L C L 
+2: R H F M G F D C F N 
+3: 
+4: W 
+5: C V Q 
+6: C V C L C Z Q Z W S 
+7: 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R W 
+
+Move 2 from 5 to 3
+1: T V L C L 
+2: R H F M G F D C F N 
+3: V Q 
+4: W 
+5: C 
+6: C V C L C Z Q Z W S 
+7: 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R W 
+
+Move 1 from 4 to 2
+1: T V L C L 
+2: R H F M G F D C F N W 
+3: V Q 
+4: 
+5: C 
+6: C V C L C Z Q Z W S 
+7: 
+8: S D P S D V G M G D P Q P B N D N P B 
+9: P G W Z M L R W 
+
+Move 2 from 6 to 8
+1: T V L C L 
+2: R H F M G F D C F N W 
+3: V Q 
+4: 
+5: C 
+6: C V C L C Z Q Z 
+7: 
+8: S D P S D V G M G D P Q P B N D N P B W S 
+9: P G W Z M L R W 
+
+Move 3 from 6 to 5
+1: T V L C L 
+2: R H F M G F D C F N W 
+3: V Q 
+4: 
+5: C Z Q Z 
+6: C V C L C 
+7: 
+8: S D P S D V G M G D P Q P B N D N P B W S 
+9: P G W Z M L R W 
+
+Move 1 from 6 to 1
+1: T V L C L C 
+2: R H F M G F D C F N W 
+3: V Q 
+4: 
+5: C Z Q Z 
+6: C V C L 
+7: 
+8: S D P S D V G M G D P Q P B N D N P B W S 
+9: P G W Z M L R W 
+
+Move 7 from 2 to 3
+1: T V L C L C 
+2: R H F M 
+3: V Q G F D C F N W 
+4: 
+5: C Z Q Z 
+6: C V C L 
+7: 
+8: S D P S D V G M G D P Q P B N D N P B W S 
+9: P G W Z M L R W 
+
+Move 6 from 8 to 7
+1: T V L C L C 
+2: R H F M 
+3: V Q G F D C F N W 
+4: 
+5: C Z Q Z 
+6: C V C L 
+7: D N P B W S 
+8: S D P S D V G M G D P Q P B N 
+9: P G W Z M L R W 
+
+Move 4 from 6 to 3
+1: T V L C L C 
+2: R H F M 
+3: V Q G F D C F N W C V C L 
+4: 
+5: C Z Q Z 
+6: 
+7: D N P B W S 
+8: S D P S D V G M G D P Q P B N 
+9: P G W Z M L R W 
+
+Move 14 from 8 to 6
+1: T V L C L C 
+2: R H F M 
+3: V Q G F D C F N W C V C L 
+4: 
+5: C Z Q Z 
+6: D P S D V G M G D P Q P B N 
+7: D N P B W S 
+8: S 
+9: P G W Z M L R W 
+
+Move 11 from 6 to 8
+1: T V L C L C 
+2: R H F M 
+3: V Q G F D C F N W C V C L 
+4: 
+5: C Z Q Z 
+6: D P S 
+7: D N P B W S 
+8: S D V G M G D P Q P B N 
+9: P G W Z M L R W 
+
+Move 1 from 1 to 4
+1: T V L C L 
+2: R H F M 
+3: V Q G F D C F N W C V C L 
+4: C 
+5: C Z Q Z 
+6: D P S 
+7: D N P B W S 
+8: S D V G M G D P Q P B N 
+9: P G W Z M L R W 
+
+Move 6 from 7 to 2
+1: T V L C L 
+2: R H F M D N P B W S 
+3: V Q G F D C F N W C V C L 
+4: C 
+5: C Z Q Z 
+6: D P S 
+7: 
+8: S D V G M G D P Q P B N 
+9: P G W Z M L R W 
+
+Move 3 from 5 to 8
+1: T V L C L 
+2: R H F M D N P B W S 
+3: V Q G F D C F N W C V C L 
+4: C 
+5: C 
+6: D P S 
+7: 
+8: S D V G M G D P Q P B N Z Q Z 
+9: P G W Z M L R W 
+
+Move 4 from 1 to 7
+1: T 
+2: R H F M D N P B W S 
+3: V Q G F D C F N W C V C L 
+4: C 
+5: C 
+6: D P S 
+7: V L C L 
+8: S D V G M G D P Q P B N Z Q Z 
+9: P G W Z M L R W 
+
+Move 1 from 2 to 8
+1: T 
+2: R H F M D N P B W 
+3: V Q G F D C F N W C V C L 
+4: C 
+5: C 
+6: D P S 
+7: V L C L 
+8: S D V G M G D P Q P B N Z Q Z S 
+9: P G W Z M L R W 
+
+Move 1 from 2 to 6
+1: T 
+2: R H F M D N P B 
+3: V Q G F D C F N W C V C L 
+4: C 
+5: C 
+6: D P S W 
+7: V L C L 
+8: S D V G M G D P Q P B N Z Q Z S 
+9: P G W Z M L R W 
+
+Move 1 from 3 to 4
+1: T 
+2: R H F M D N P B 
+3: V Q G F D C F N W C V C 
+4: C L 
+5: C 
+6: D P S W 
+7: V L C L 
+8: S D V G M G D P Q P B N Z Q Z S 
+9: P G W Z M L R W 
+
+Move 1 from 5 to 6
+1: T 
+2: R H F M D N P B 
+3: V Q G F D C F N W C V C 
+4: C L 
+5: 
+6: D P S W C 
+7: V L C L 
+8: S D V G M G D P Q P B N Z Q Z S 
+9: P G W Z M L R W 
+
+Move 7 from 8 to 6
+1: T 
+2: R H F M D N P B 
+3: V Q G F D C F N W C V C 
+4: C L 
+5: 
+6: D P S W C P B N Z Q Z S 
+7: V L C L 
+8: S D V G M G D P Q 
+9: P G W Z M L R W 
+
+Move 9 from 3 to 2
+1: T 
+2: R H F M D N P B F D C F N W C V C 
+3: V Q G 
+4: C L 
+5: 
+6: D P S W C P B N Z Q Z S 
+7: V L C L 
+8: S D V G M G D P Q 
+9: P G W Z M L R W 
+
+Move 1 from 8 to 5
+1: T 
+2: R H F M D N P B F D C F N W C V C 
+3: V Q G 
+4: C L 
+5: Q 
+6: D P S W C P B N Z Q Z S 
+7: V L C L 
+8: S D V G M G D P 
+9: P G W Z M L R W 
+
+TCGLQSLPW
